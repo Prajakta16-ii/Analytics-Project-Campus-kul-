@@ -1,0 +1,1001 @@
+job_id,user_id,job_name,job_type,company_name,job_location,salary,created_at,updated_at,job_status
+1,1,Software Developer,Part-Time,Infosys,Pune,1155044,14-02-2026 11:40,14-02-2026 11:40,open
+2,2,Data Analyst,Internship,Tech Mahindra,Pune,262115,14-02-2026 11:40,14-02-2026 11:40,open
+3,3,Accountant,Internship,Infosys,Hyderabad,652400,14-02-2026 11:40,14-02-2026 11:40,open
+4,4,Web Designer,Contract,Tech Mahindra,Pune,691993,14-02-2026 11:40,14-02-2026 11:40,open
+5,5,Web Designer,Contract,Wipro,Hyderabad,755382,14-02-2026 11:40,14-02-2026 11:40,closed
+6,6,Accountant,Full-Time,Wipro,Bangalore,1234028,14-02-2026 11:40,14-02-2026 11:40,closed
+7,7,Web Designer,Full-Time,Wipro,Delhi,531339,14-02-2026 11:40,14-02-2026 11:40,open
+8,8,Project Manager,Internship,HCL,Hyderabad,1277118,14-02-2026 11:40,14-02-2026 11:40,closed
+9,9,Marketing Manager,Part-Time,TCS,Bangalore,435975,14-02-2026 11:40,14-02-2026 11:40,closed
+10,10,Web Designer,Contract,Capgemini,Chennai,353397,14-02-2026 11:40,14-02-2026 11:40,open
+11,11,Project Manager,Part-Time,TCS,Bangalore,1162692,14-02-2026 11:40,14-02-2026 11:40,open
+12,12,Marketing Manager,Contract,Infosys,Chennai,1155492,14-02-2026 11:40,14-02-2026 11:40,closed
+13,13,HR Executive,Internship,Capgemini,Chennai,1268427,14-02-2026 11:40,14-02-2026 11:40,open
+14,14,Data Analyst,Contract,Accenture,Mumbai,948140,14-02-2026 11:40,14-02-2026 11:40,closed
+15,15,Accountant,Full-Time,Accenture,Bangalore,1184818,14-02-2026 11:40,14-02-2026 11:40,open
+16,16,HR Executive,Internship,Accenture,Hyderabad,863680,14-02-2026 11:40,14-02-2026 11:40,closed
+17,17,Web Designer,Contract,Tech Mahindra,Mumbai,986953,14-02-2026 11:40,14-02-2026 11:40,closed
+18,18,Project Manager,Part-Time,HCL,Hyderabad,259777,14-02-2026 11:40,14-02-2026 11:40,open
+19,19,Marketing Manager,Internship,TCS,Bangalore,1198381,14-02-2026 11:40,14-02-2026 11:40,open
+20,20,Business Analyst,Part-Time,Accenture,Pune,1241152,14-02-2026 11:40,14-02-2026 11:40,open
+21,21,Web Designer,Contract,Tech Mahindra,Hyderabad,381819,14-02-2026 11:40,14-02-2026 11:40,open
+22,22,Marketing Manager,Contract,Tech Mahindra,Pune,1230710,14-02-2026 11:40,14-02-2026 11:40,closed
+23,23,HR Executive,Full-Time,HCL,Pune,1231522,14-02-2026 11:40,14-02-2026 11:40,open
+24,24,Software Developer,Full-Time,Accenture,Delhi,1323897,14-02-2026 11:40,14-02-2026 11:40,open
+25,25,Web Designer,Contract,Tech Mahindra,Chennai,1122871,14-02-2026 11:40,14-02-2026 11:40,closed
+26,26,Business Analyst,Contract,Capgemini,Chennai,1067686,14-02-2026 11:40,14-02-2026 11:40,open
+27,27,HR Executive,Internship,TCS,Hyderabad,595062,14-02-2026 11:40,14-02-2026 11:40,open
+28,28,Project Manager,Part-Time,Infosys,Bangalore,1195688,14-02-2026 11:40,14-02-2026 11:40,closed
+29,29,Marketing Manager,Internship,Tech Mahindra,Delhi,1108569,14-02-2026 11:40,14-02-2026 11:40,open
+30,30,Accountant,Internship,Wipro,Bangalore,1097323,14-02-2026 11:40,14-02-2026 11:40,closed
+31,31,Data Analyst,Contract,HCL,Pune,1139163,14-02-2026 11:40,14-02-2026 11:40,closed
+32,32,Accountant,Contract,Tech Mahindra,Bangalore,454249,14-02-2026 11:40,14-02-2026 11:40,open
+33,33,Data Analyst,Contract,Capgemini,Delhi,1269224,14-02-2026 11:40,14-02-2026 11:40,closed
+34,34,Project Manager,Full-Time,Accenture,Hyderabad,260899,14-02-2026 11:40,14-02-2026 11:40,open
+35,35,Business Analyst,Internship,Infosys,Mumbai,1349153,14-02-2026 11:40,14-02-2026 11:40,open
+36,36,Business Analyst,Full-Time,Capgemini,Bangalore,208557,14-02-2026 11:40,14-02-2026 11:40,open
+37,37,HR Executive,Internship,Wipro,Chennai,259625,14-02-2026 11:40,14-02-2026 11:40,closed
+38,38,Project Manager,Full-Time,Tech Mahindra,Mumbai,740467,14-02-2026 11:40,14-02-2026 11:40,closed
+39,39,Software Developer,Full-Time,Accenture,Hyderabad,252001,14-02-2026 11:40,14-02-2026 11:40,closed
+40,40,Project Manager,Contract,Wipro,Bangalore,721327,14-02-2026 11:40,14-02-2026 11:40,open
+41,41,Project Manager,Full-Time,Infosys,Bangalore,218442,14-02-2026 11:40,14-02-2026 11:40,open
+42,42,Marketing Manager,Part-Time,Infosys,Bangalore,320128,14-02-2026 11:40,14-02-2026 11:40,closed
+43,43,Web Designer,Contract,Wipro,Delhi,940435,14-02-2026 11:40,14-02-2026 11:40,open
+44,44,Data Analyst,Full-Time,Infosys,Hyderabad,458348,14-02-2026 11:40,14-02-2026 11:40,closed
+45,45,Business Analyst,Internship,Tech Mahindra,Bangalore,449083,14-02-2026 11:40,14-02-2026 11:40,open
+46,46,Accountant,Full-Time,Accenture,Pune,953762,14-02-2026 11:40,14-02-2026 11:40,closed
+47,47,Data Analyst,Internship,TCS,Pune,502393,14-02-2026 11:40,14-02-2026 11:40,closed
+48,48,Project Manager,Part-Time,HCL,Chennai,217733,14-02-2026 11:40,14-02-2026 11:40,open
+49,49,Software Developer,Full-Time,Infosys,Hyderabad,873185,14-02-2026 11:40,14-02-2026 11:40,open
+50,50,Accountant,Full-Time,Infosys,Chennai,1327804,14-02-2026 11:40,14-02-2026 11:40,closed
+51,51,Data Analyst,Contract,Tech Mahindra,Hyderabad,222632,14-02-2026 11:40,14-02-2026 11:40,open
+52,52,Accountant,Part-Time,Accenture,Chennai,1301781,14-02-2026 11:40,14-02-2026 11:40,open
+53,53,Accountant,Part-Time,Accenture,Bangalore,801714,14-02-2026 11:40,14-02-2026 11:40,open
+54,54,HR Executive,Internship,TCS,Pune,1425979,14-02-2026 11:40,14-02-2026 11:40,open
+55,55,Marketing Manager,Part-Time,Capgemini,Hyderabad,653373,14-02-2026 11:40,14-02-2026 11:40,closed
+56,56,HR Executive,Contract,Accenture,Hyderabad,1280029,14-02-2026 11:40,14-02-2026 11:40,closed
+57,57,Software Developer,Internship,Capgemini,Pune,276676,14-02-2026 11:40,14-02-2026 11:40,closed
+58,58,Business Analyst,Contract,Accenture,Hyderabad,519024,14-02-2026 11:40,14-02-2026 11:40,open
+59,59,HR Executive,Full-Time,Wipro,Delhi,775229,14-02-2026 11:40,14-02-2026 11:40,open
+60,60,Marketing Manager,Part-Time,Wipro,Delhi,1417355,14-02-2026 11:40,14-02-2026 11:40,closed
+61,61,Data Analyst,Contract,Wipro,Delhi,1179330,14-02-2026 11:40,14-02-2026 11:40,closed
+62,62,Web Designer,Internship,HCL,Hyderabad,1193309,14-02-2026 11:40,14-02-2026 11:40,closed
+63,63,Web Designer,Contract,Wipro,Pune,506786,14-02-2026 11:40,14-02-2026 11:40,closed
+64,64,Software Developer,Internship,TCS,Chennai,796316,14-02-2026 11:40,14-02-2026 11:40,closed
+65,65,Software Developer,Contract,HCL,Mumbai,385777,14-02-2026 11:40,14-02-2026 11:40,closed
+66,66,Marketing Manager,Internship,Capgemini,Chennai,1154419,14-02-2026 11:40,14-02-2026 11:40,closed
+67,67,Marketing Manager,Full-Time,Wipro,Mumbai,239785,14-02-2026 11:40,14-02-2026 11:40,open
+68,68,Project Manager,Internship,Tech Mahindra,Hyderabad,1424204,14-02-2026 11:40,14-02-2026 11:40,closed
+69,69,HR Executive,Full-Time,TCS,Pune,714719,14-02-2026 11:40,14-02-2026 11:40,open
+70,70,Software Developer,Contract,Wipro,Delhi,423432,14-02-2026 11:40,14-02-2026 11:40,open
+71,71,Marketing Manager,Full-Time,Infosys,Mumbai,1097151,14-02-2026 11:40,14-02-2026 11:40,closed
+72,72,Software Developer,Internship,HCL,Mumbai,980223,14-02-2026 11:40,14-02-2026 11:40,open
+73,73,Web Designer,Full-Time,TCS,Hyderabad,487975,14-02-2026 11:40,14-02-2026 11:40,closed
+74,74,Data Analyst,Contract,Infosys,Mumbai,1499241,14-02-2026 11:40,14-02-2026 11:40,closed
+75,75,Project Manager,Internship,Capgemini,Pune,253962,14-02-2026 11:40,14-02-2026 11:40,open
+76,76,Software Developer,Contract,Tech Mahindra,Mumbai,845672,14-02-2026 11:40,14-02-2026 11:40,open
+77,77,Software Developer,Internship,Wipro,Bangalore,802057,14-02-2026 11:40,14-02-2026 11:40,closed
+78,78,Business Analyst,Full-Time,Tech Mahindra,Mumbai,601631,14-02-2026 11:40,14-02-2026 11:40,closed
+79,79,HR Executive,Contract,Tech Mahindra,Hyderabad,1057336,14-02-2026 11:40,14-02-2026 11:40,closed
+80,80,Software Developer,Full-Time,Wipro,Pune,610007,14-02-2026 11:40,14-02-2026 11:40,open
+81,81,Software Developer,Full-Time,Accenture,Chennai,1042352,14-02-2026 11:40,14-02-2026 11:40,open
+82,82,Project Manager,Part-Time,Infosys,Chennai,422260,14-02-2026 11:40,14-02-2026 11:40,open
+83,83,HR Executive,Internship,Capgemini,Bangalore,728762,14-02-2026 11:40,14-02-2026 11:40,open
+84,84,Web Designer,Internship,Accenture,Mumbai,1138637,14-02-2026 11:40,14-02-2026 11:40,open
+85,85,Data Analyst,Part-Time,Tech Mahindra,Mumbai,1020715,14-02-2026 11:40,14-02-2026 11:40,closed
+86,86,Web Designer,Internship,Wipro,Chennai,685708,14-02-2026 11:40,14-02-2026 11:40,open
+87,87,Accountant,Full-Time,Capgemini,Chennai,460042,14-02-2026 11:40,14-02-2026 11:40,closed
+88,88,Project Manager,Internship,TCS,Chennai,1365359,14-02-2026 11:40,14-02-2026 11:40,closed
+89,89,Business Analyst,Internship,Tech Mahindra,Pune,552259,14-02-2026 11:40,14-02-2026 11:40,closed
+90,90,HR Executive,Internship,Tech Mahindra,Pune,1481619,14-02-2026 11:40,14-02-2026 11:40,closed
+91,91,Software Developer,Part-Time,Accenture,Hyderabad,1485762,14-02-2026 11:40,14-02-2026 11:40,closed
+92,92,Marketing Manager,Part-Time,Infosys,Delhi,721475,14-02-2026 11:40,14-02-2026 11:40,open
+93,93,Data Analyst,Internship,Wipro,Mumbai,334112,14-02-2026 11:40,14-02-2026 11:40,open
+94,94,Marketing Manager,Internship,Wipro,Bangalore,768177,14-02-2026 11:40,14-02-2026 11:40,open
+95,95,Accountant,Full-Time,Infosys,Pune,1373226,14-02-2026 11:40,14-02-2026 11:40,closed
+96,96,Data Analyst,Contract,TCS,Chennai,485464,14-02-2026 11:40,14-02-2026 11:40,closed
+97,97,Business Analyst,Internship,Capgemini,Delhi,609074,14-02-2026 11:40,14-02-2026 11:40,open
+98,98,Data Analyst,Internship,TCS,Delhi,1121907,14-02-2026 11:40,14-02-2026 11:40,open
+99,99,Project Manager,Full-Time,Capgemini,Chennai,654140,14-02-2026 11:40,14-02-2026 11:40,closed
+100,100,Project Manager,Internship,TCS,Mumbai,654767,14-02-2026 11:40,14-02-2026 11:40,closed
+101,101,Software Developer,Full-Time,Wipro,Mumbai,1251539,14-02-2026 11:40,14-02-2026 11:40,open
+102,102,Software Developer,Part-Time,Accenture,Mumbai,557003,14-02-2026 11:40,14-02-2026 11:40,open
+103,103,Data Analyst,Contract,Tech Mahindra,Bangalore,765794,14-02-2026 11:40,14-02-2026 11:40,open
+104,104,Project Manager,Contract,TCS,Hyderabad,1345556,14-02-2026 11:40,14-02-2026 11:40,closed
+105,105,Marketing Manager,Internship,Capgemini,Bangalore,990423,14-02-2026 11:40,14-02-2026 11:40,open
+106,106,Data Analyst,Internship,Capgemini,Delhi,271294,14-02-2026 11:40,14-02-2026 11:40,open
+107,107,Project Manager,Internship,Tech Mahindra,Mumbai,1150775,14-02-2026 11:40,14-02-2026 11:40,closed
+108,108,Project Manager,Contract,TCS,Chennai,1357463,14-02-2026 11:40,14-02-2026 11:40,closed
+109,109,Accountant,Internship,Wipro,Bangalore,380921,14-02-2026 11:40,14-02-2026 11:40,closed
+110,110,Project Manager,Part-Time,Accenture,Mumbai,374419,14-02-2026 11:40,14-02-2026 11:40,closed
+111,111,Web Designer,Full-Time,Infosys,Hyderabad,1001785,14-02-2026 11:40,14-02-2026 11:40,closed
+112,112,Marketing Manager,Internship,TCS,Chennai,1347474,14-02-2026 11:40,14-02-2026 11:40,open
+113,113,Marketing Manager,Contract,HCL,Bangalore,921117,14-02-2026 11:40,14-02-2026 11:40,open
+114,114,Business Analyst,Full-Time,Wipro,Hyderabad,698719,14-02-2026 11:40,14-02-2026 11:40,open
+115,115,HR Executive,Full-Time,Wipro,Bangalore,513833,14-02-2026 11:40,14-02-2026 11:40,closed
+116,116,Data Analyst,Internship,TCS,Pune,1027745,14-02-2026 11:40,14-02-2026 11:40,open
+117,117,Business Analyst,Full-Time,Wipro,Mumbai,768804,14-02-2026 11:40,14-02-2026 11:40,closed
+118,118,Software Developer,Internship,HCL,Bangalore,1000970,14-02-2026 11:40,14-02-2026 11:40,open
+119,119,Web Designer,Internship,Tech Mahindra,Bangalore,308227,14-02-2026 11:40,14-02-2026 11:40,closed
+120,120,Business Analyst,Internship,Wipro,Hyderabad,1406694,14-02-2026 11:40,14-02-2026 11:40,open
+121,121,Software Developer,Part-Time,Infosys,Mumbai,991756,14-02-2026 11:40,14-02-2026 11:40,open
+122,122,Software Developer,Contract,Accenture,Hyderabad,614972,14-02-2026 11:40,14-02-2026 11:40,open
+123,123,Software Developer,Full-Time,Tech Mahindra,Pune,1063326,14-02-2026 11:40,14-02-2026 11:40,open
+124,124,Software Developer,Part-Time,Tech Mahindra,Hyderabad,213160,14-02-2026 11:40,14-02-2026 11:40,open
+125,125,Accountant,Part-Time,HCL,Pune,1236531,14-02-2026 11:40,14-02-2026 11:40,open
+126,126,Accountant,Internship,Accenture,Bangalore,656287,14-02-2026 11:40,14-02-2026 11:40,closed
+127,127,Software Developer,Full-Time,HCL,Mumbai,1323301,14-02-2026 11:40,14-02-2026 11:40,open
+128,128,Project Manager,Full-Time,HCL,Delhi,1417790,14-02-2026 11:40,14-02-2026 11:40,closed
+129,129,Business Analyst,Part-Time,HCL,Pune,951263,14-02-2026 11:40,14-02-2026 11:40,closed
+130,130,Web Designer,Part-Time,TCS,Delhi,259765,14-02-2026 11:40,14-02-2026 11:40,closed
+131,131,HR Executive,Contract,HCL,Bangalore,1043663,14-02-2026 11:40,14-02-2026 11:40,closed
+132,132,Data Analyst,Internship,TCS,Mumbai,881312,14-02-2026 11:40,14-02-2026 11:40,closed
+133,133,Business Analyst,Part-Time,HCL,Chennai,663210,14-02-2026 11:40,14-02-2026 11:40,closed
+134,134,Data Analyst,Internship,Tech Mahindra,Pune,827451,14-02-2026 11:40,14-02-2026 11:40,closed
+135,135,Software Developer,Part-Time,Capgemini,Chennai,242220,14-02-2026 11:40,14-02-2026 11:40,open
+136,136,HR Executive,Internship,Infosys,Delhi,1258724,14-02-2026 11:40,14-02-2026 11:40,open
+137,137,Business Analyst,Full-Time,Accenture,Pune,874868,14-02-2026 11:40,14-02-2026 11:40,closed
+138,138,Marketing Manager,Contract,HCL,Pune,1285868,14-02-2026 11:40,14-02-2026 11:40,closed
+139,139,Marketing Manager,Internship,Tech Mahindra,Delhi,1337872,14-02-2026 11:40,14-02-2026 11:40,open
+140,140,Data Analyst,Part-Time,HCL,Mumbai,284335,14-02-2026 11:40,14-02-2026 11:40,open
+141,141,Project Manager,Contract,Infosys,Chennai,1354707,14-02-2026 11:40,14-02-2026 11:40,open
+142,142,Business Analyst,Internship,Tech Mahindra,Chennai,945854,14-02-2026 11:40,14-02-2026 11:40,closed
+143,143,Data Analyst,Part-Time,Capgemini,Mumbai,645989,14-02-2026 11:40,14-02-2026 11:40,closed
+144,144,Accountant,Internship,Tech Mahindra,Bangalore,1482818,14-02-2026 11:40,14-02-2026 11:40,closed
+145,145,Data Analyst,Part-Time,Infosys,Bangalore,1296819,14-02-2026 11:40,14-02-2026 11:40,open
+146,146,Web Designer,Part-Time,Infosys,Hyderabad,1117109,14-02-2026 11:40,14-02-2026 11:40,closed
+147,147,Marketing Manager,Full-Time,Wipro,Pune,1434821,14-02-2026 11:40,14-02-2026 11:40,open
+148,148,Project Manager,Full-Time,TCS,Delhi,217687,14-02-2026 11:40,14-02-2026 11:40,open
+149,149,Web Designer,Internship,TCS,Pune,1244668,14-02-2026 11:40,14-02-2026 11:40,closed
+150,150,Business Analyst,Full-Time,Accenture,Delhi,1168216,14-02-2026 11:40,14-02-2026 11:40,closed
+151,151,HR Executive,Full-Time,Tech Mahindra,Chennai,1310197,14-02-2026 11:40,14-02-2026 11:40,open
+152,152,Accountant,Contract,HCL,Hyderabad,1366868,14-02-2026 11:40,14-02-2026 11:40,closed
+153,153,Project Manager,Contract,Accenture,Hyderabad,947264,14-02-2026 11:40,14-02-2026 11:40,open
+154,154,Accountant,Full-Time,Accenture,Chennai,1017574,14-02-2026 11:40,14-02-2026 11:40,closed
+155,155,HR Executive,Part-Time,TCS,Mumbai,1112027,14-02-2026 11:40,14-02-2026 11:40,closed
+156,156,Marketing Manager,Internship,HCL,Hyderabad,950400,14-02-2026 11:40,14-02-2026 11:40,closed
+157,157,Data Analyst,Part-Time,Capgemini,Bangalore,776189,14-02-2026 11:40,14-02-2026 11:40,open
+158,158,HR Executive,Full-Time,Infosys,Bangalore,218434,14-02-2026 11:40,14-02-2026 11:40,closed
+159,159,Business Analyst,Full-Time,Infosys,Mumbai,1314050,14-02-2026 11:40,14-02-2026 11:40,open
+160,160,Marketing Manager,Internship,Infosys,Pune,717909,14-02-2026 11:40,14-02-2026 11:40,open
+161,161,HR Executive,Internship,HCL,Hyderabad,494787,14-02-2026 11:40,14-02-2026 11:40,closed
+162,162,Accountant,Part-Time,Wipro,Hyderabad,438062,14-02-2026 11:40,14-02-2026 11:40,closed
+163,163,Accountant,Full-Time,Infosys,Delhi,907866,14-02-2026 11:40,14-02-2026 11:40,closed
+164,164,Software Developer,Part-Time,Infosys,Bangalore,1040981,14-02-2026 11:40,14-02-2026 11:40,open
+165,165,Marketing Manager,Internship,TCS,Delhi,1162388,14-02-2026 11:40,14-02-2026 11:40,open
+166,166,Project Manager,Full-Time,TCS,Mumbai,346805,14-02-2026 11:40,14-02-2026 11:40,open
+167,167,HR Executive,Internship,TCS,Hyderabad,1200002,14-02-2026 11:40,14-02-2026 11:40,closed
+168,168,Accountant,Internship,TCS,Bangalore,1388610,14-02-2026 11:40,14-02-2026 11:40,open
+169,169,Business Analyst,Internship,TCS,Mumbai,1381245,14-02-2026 11:40,14-02-2026 11:40,open
+170,170,Web Designer,Part-Time,Capgemini,Bangalore,1474590,14-02-2026 11:40,14-02-2026 11:40,closed
+171,171,Software Developer,Contract,Wipro,Delhi,790369,14-02-2026 11:40,14-02-2026 11:40,closed
+172,172,Business Analyst,Contract,Wipro,Delhi,947885,14-02-2026 11:40,14-02-2026 11:40,open
+173,173,Accountant,Full-Time,Accenture,Delhi,863360,14-02-2026 11:40,14-02-2026 11:40,closed
+174,174,Software Developer,Internship,Wipro,Bangalore,811288,14-02-2026 11:40,14-02-2026 11:40,closed
+175,175,Business Analyst,Full-Time,Tech Mahindra,Delhi,908615,14-02-2026 11:40,14-02-2026 11:40,open
+176,176,Web Designer,Full-Time,Infosys,Mumbai,921495,14-02-2026 11:40,14-02-2026 11:40,closed
+177,177,HR Executive,Internship,TCS,Bangalore,723270,14-02-2026 11:40,14-02-2026 11:40,open
+178,178,Marketing Manager,Part-Time,HCL,Hyderabad,225087,14-02-2026 11:40,14-02-2026 11:40,open
+179,179,Accountant,Part-Time,HCL,Chennai,1186892,14-02-2026 11:40,14-02-2026 11:40,closed
+180,180,Marketing Manager,Part-Time,Accenture,Bangalore,562773,14-02-2026 11:40,14-02-2026 11:40,closed
+181,181,Marketing Manager,Internship,Wipro,Chennai,915342,14-02-2026 11:40,14-02-2026 11:40,open
+182,182,Marketing Manager,Internship,TCS,Pune,1317405,14-02-2026 11:40,14-02-2026 11:40,closed
+183,183,Marketing Manager,Part-Time,Capgemini,Hyderabad,251063,14-02-2026 11:40,14-02-2026 11:40,closed
+184,184,Accountant,Internship,Infosys,Mumbai,1174224,14-02-2026 11:40,14-02-2026 11:40,open
+185,185,Software Developer,Full-Time,Accenture,Pune,802091,14-02-2026 11:40,14-02-2026 11:40,open
+186,186,Web Designer,Part-Time,Wipro,Hyderabad,363860,14-02-2026 11:40,14-02-2026 11:40,open
+187,187,Business Analyst,Contract,Capgemini,Delhi,1497959,14-02-2026 11:40,14-02-2026 11:40,closed
+188,188,HR Executive,Full-Time,Infosys,Bangalore,1284064,14-02-2026 11:40,14-02-2026 11:40,closed
+189,189,Data Analyst,Contract,HCL,Chennai,969520,14-02-2026 11:40,14-02-2026 11:40,closed
+190,190,Project Manager,Part-Time,TCS,Mumbai,1380406,14-02-2026 11:40,14-02-2026 11:40,open
+191,191,Web Designer,Full-Time,Tech Mahindra,Pune,1488142,14-02-2026 11:40,14-02-2026 11:40,open
+192,192,Accountant,Contract,HCL,Chennai,1026338,14-02-2026 11:40,14-02-2026 11:40,open
+193,193,Web Designer,Full-Time,Wipro,Delhi,674058,14-02-2026 11:40,14-02-2026 11:40,open
+194,194,HR Executive,Part-Time,Tech Mahindra,Delhi,1371671,14-02-2026 11:40,14-02-2026 11:40,closed
+195,195,Data Analyst,Full-Time,HCL,Pune,1154182,14-02-2026 11:40,14-02-2026 11:40,closed
+196,196,Web Designer,Internship,Tech Mahindra,Bangalore,830152,14-02-2026 11:40,14-02-2026 11:40,closed
+197,197,Data Analyst,Contract,Accenture,Bangalore,1451178,14-02-2026 11:40,14-02-2026 11:40,open
+198,198,HR Executive,Contract,Wipro,Hyderabad,1048932,14-02-2026 11:40,14-02-2026 11:40,open
+199,199,Business Analyst,Contract,TCS,Delhi,819704,14-02-2026 11:40,14-02-2026 11:40,closed
+200,200,Project Manager,Part-Time,Infosys,Hyderabad,1264175,14-02-2026 11:40,14-02-2026 11:40,closed
+201,201,Software Developer,Internship,Capgemini,Delhi,1414372,14-02-2026 11:40,14-02-2026 11:40,closed
+202,202,Software Developer,Part-Time,Capgemini,Chennai,214378,14-02-2026 11:40,14-02-2026 11:40,open
+203,203,HR Executive,Contract,Wipro,Mumbai,1122663,14-02-2026 11:40,14-02-2026 11:40,open
+204,204,Project Manager,Full-Time,TCS,Bangalore,690209,14-02-2026 11:40,14-02-2026 11:40,open
+205,205,Data Analyst,Contract,Infosys,Bangalore,502341,14-02-2026 11:40,14-02-2026 11:40,closed
+206,206,Marketing Manager,Full-Time,Capgemini,Bangalore,1260926,14-02-2026 11:40,14-02-2026 11:40,closed
+207,207,Data Analyst,Full-Time,Capgemini,Hyderabad,634057,14-02-2026 11:40,14-02-2026 11:40,closed
+208,208,Software Developer,Part-Time,Infosys,Hyderabad,348810,14-02-2026 11:40,14-02-2026 11:40,open
+209,209,Web Designer,Contract,Infosys,Chennai,559729,14-02-2026 11:40,14-02-2026 11:40,closed
+210,210,HR Executive,Contract,Accenture,Delhi,386187,14-02-2026 11:40,14-02-2026 11:40,open
+211,211,Web Designer,Full-Time,TCS,Chennai,895232,14-02-2026 11:40,14-02-2026 11:40,closed
+212,212,Accountant,Internship,Infosys,Mumbai,1267660,14-02-2026 11:40,14-02-2026 11:40,open
+213,213,Project Manager,Part-Time,Tech Mahindra,Hyderabad,451181,14-02-2026 11:40,14-02-2026 11:40,open
+214,214,Web Designer,Internship,Capgemini,Pune,1058236,14-02-2026 11:40,14-02-2026 11:40,open
+215,215,Business Analyst,Full-Time,Capgemini,Chennai,1001722,14-02-2026 11:40,14-02-2026 11:40,open
+216,216,Software Developer,Internship,Tech Mahindra,Pune,1423178,14-02-2026 11:40,14-02-2026 11:40,open
+217,217,Business Analyst,Part-Time,Infosys,Hyderabad,565824,14-02-2026 11:40,14-02-2026 11:40,open
+218,218,Data Analyst,Full-Time,Infosys,Hyderabad,528239,14-02-2026 11:40,14-02-2026 11:40,closed
+219,219,Web Designer,Internship,Tech Mahindra,Delhi,1305774,14-02-2026 11:40,14-02-2026 11:40,open
+220,220,Marketing Manager,Full-Time,Accenture,Pune,1355765,14-02-2026 11:40,14-02-2026 11:40,open
+221,221,Data Analyst,Contract,Wipro,Bangalore,1156971,14-02-2026 11:40,14-02-2026 11:40,closed
+222,222,Project Manager,Internship,HCL,Chennai,1298784,14-02-2026 11:40,14-02-2026 11:40,closed
+223,223,Marketing Manager,Internship,Infosys,Hyderabad,1407720,14-02-2026 11:40,14-02-2026 11:40,closed
+224,224,Accountant,Contract,TCS,Delhi,510140,14-02-2026 11:40,14-02-2026 11:40,closed
+225,225,Web Designer,Full-Time,HCL,Hyderabad,1332992,14-02-2026 11:40,14-02-2026 11:40,open
+226,226,Accountant,Contract,Accenture,Delhi,1462226,14-02-2026 11:40,14-02-2026 11:40,closed
+227,227,HR Executive,Full-Time,Infosys,Mumbai,1341803,14-02-2026 11:40,14-02-2026 11:40,closed
+228,228,Data Analyst,Part-Time,Capgemini,Delhi,1374791,14-02-2026 11:40,14-02-2026 11:40,open
+229,229,Software Developer,Internship,Accenture,Mumbai,632484,14-02-2026 11:40,14-02-2026 11:40,open
+230,230,Business Analyst,Full-Time,Wipro,Chennai,515723,14-02-2026 11:40,14-02-2026 11:40,closed
+231,231,Web Designer,Contract,Tech Mahindra,Mumbai,351458,14-02-2026 11:40,14-02-2026 11:40,open
+232,232,Business Analyst,Part-Time,TCS,Chennai,562823,14-02-2026 11:40,14-02-2026 11:40,open
+233,233,Project Manager,Full-Time,HCL,Delhi,1154532,14-02-2026 11:40,14-02-2026 11:40,closed
+234,234,Software Developer,Full-Time,Wipro,Pune,1287767,14-02-2026 11:40,14-02-2026 11:40,open
+235,235,Software Developer,Contract,Accenture,Pune,218642,14-02-2026 11:40,14-02-2026 11:40,closed
+236,236,HR Executive,Internship,TCS,Chennai,1480903,14-02-2026 11:40,14-02-2026 11:40,closed
+237,237,Accountant,Full-Time,Tech Mahindra,Mumbai,1093673,14-02-2026 11:40,14-02-2026 11:40,open
+238,238,HR Executive,Contract,TCS,Pune,635022,14-02-2026 11:40,14-02-2026 11:40,closed
+239,239,Marketing Manager,Part-Time,Wipro,Delhi,756048,14-02-2026 11:40,14-02-2026 11:40,closed
+240,240,Project Manager,Contract,Tech Mahindra,Hyderabad,1144370,14-02-2026 11:40,14-02-2026 11:40,open
+241,241,Project Manager,Full-Time,TCS,Chennai,766366,14-02-2026 11:40,14-02-2026 11:40,closed
+242,242,Marketing Manager,Part-Time,Tech Mahindra,Bangalore,1246512,14-02-2026 11:40,14-02-2026 11:40,closed
+243,243,Web Designer,Internship,Wipro,Mumbai,614666,14-02-2026 11:40,14-02-2026 11:40,open
+244,244,Web Designer,Internship,Infosys,Hyderabad,893946,14-02-2026 11:40,14-02-2026 11:40,closed
+245,245,Software Developer,Contract,Accenture,Hyderabad,1019683,14-02-2026 11:40,14-02-2026 11:40,closed
+246,246,HR Executive,Internship,Infosys,Mumbai,1342247,14-02-2026 11:40,14-02-2026 11:40,open
+247,247,HR Executive,Contract,Capgemini,Hyderabad,1128082,14-02-2026 11:40,14-02-2026 11:40,open
+248,248,HR Executive,Full-Time,Infosys,Hyderabad,1055374,14-02-2026 11:40,14-02-2026 11:40,closed
+249,249,Accountant,Part-Time,Infosys,Chennai,246386,14-02-2026 11:40,14-02-2026 11:40,closed
+250,250,Project Manager,Contract,Infosys,Mumbai,315204,14-02-2026 11:40,14-02-2026 11:40,closed
+251,251,Web Designer,Full-Time,Tech Mahindra,Pune,888971,14-02-2026 11:40,14-02-2026 11:40,open
+252,252,Accountant,Part-Time,TCS,Bangalore,907910,14-02-2026 11:40,14-02-2026 11:40,closed
+253,253,Web Designer,Full-Time,Wipro,Delhi,1300382,14-02-2026 11:40,14-02-2026 11:40,open
+254,254,Software Developer,Internship,HCL,Pune,915290,14-02-2026 11:40,14-02-2026 11:40,closed
+255,255,Data Analyst,Contract,Tech Mahindra,Bangalore,509698,14-02-2026 11:40,14-02-2026 11:40,closed
+256,256,Web Designer,Part-Time,TCS,Pune,854379,14-02-2026 11:40,14-02-2026 11:40,closed
+257,257,Software Developer,Full-Time,Infosys,Chennai,583516,14-02-2026 11:40,14-02-2026 11:40,open
+258,258,Web Designer,Part-Time,TCS,Mumbai,1467940,14-02-2026 11:40,14-02-2026 11:40,closed
+259,259,Accountant,Full-Time,TCS,Pune,827510,14-02-2026 11:40,14-02-2026 11:40,closed
+260,260,HR Executive,Part-Time,Accenture,Pune,1136002,14-02-2026 11:40,14-02-2026 11:40,open
+261,261,Accountant,Part-Time,Tech Mahindra,Pune,637936,14-02-2026 11:40,14-02-2026 11:40,open
+262,262,HR Executive,Full-Time,Accenture,Delhi,832272,14-02-2026 11:40,14-02-2026 11:40,open
+263,263,Data Analyst,Full-Time,Wipro,Hyderabad,744639,14-02-2026 11:40,14-02-2026 11:40,open
+264,264,HR Executive,Internship,Wipro,Mumbai,548240,14-02-2026 11:40,14-02-2026 11:40,closed
+265,265,HR Executive,Internship,HCL,Chennai,1095373,14-02-2026 11:40,14-02-2026 11:40,closed
+266,266,Web Designer,Internship,Capgemini,Delhi,1129509,14-02-2026 11:40,14-02-2026 11:40,open
+267,267,Data Analyst,Full-Time,HCL,Pune,1299449,14-02-2026 11:40,14-02-2026 11:40,open
+268,268,Software Developer,Internship,Wipro,Mumbai,1365512,14-02-2026 11:40,14-02-2026 11:40,closed
+269,269,Marketing Manager,Part-Time,TCS,Delhi,1073868,14-02-2026 11:40,14-02-2026 11:40,closed
+270,270,Marketing Manager,Internship,HCL,Delhi,1123681,14-02-2026 11:40,14-02-2026 11:40,open
+271,271,Business Analyst,Contract,Capgemini,Mumbai,417029,14-02-2026 11:40,14-02-2026 11:40,open
+272,272,Data Analyst,Part-Time,TCS,Hyderabad,243398,14-02-2026 11:40,14-02-2026 11:40,open
+273,273,Business Analyst,Part-Time,Infosys,Hyderabad,517725,14-02-2026 11:40,14-02-2026 11:40,open
+274,274,Software Developer,Full-Time,Infosys,Delhi,1014966,14-02-2026 11:40,14-02-2026 11:40,closed
+275,275,HR Executive,Contract,TCS,Hyderabad,1250421,14-02-2026 11:40,14-02-2026 11:40,closed
+276,276,Accountant,Part-Time,Capgemini,Bangalore,261344,14-02-2026 11:40,14-02-2026 11:40,open
+277,277,HR Executive,Contract,Capgemini,Delhi,1363631,14-02-2026 11:40,14-02-2026 11:40,closed
+278,278,Software Developer,Full-Time,TCS,Hyderabad,1352275,14-02-2026 11:40,14-02-2026 11:40,open
+279,279,Accountant,Part-Time,Capgemini,Hyderabad,556928,14-02-2026 11:40,14-02-2026 11:40,closed
+280,280,Data Analyst,Internship,Accenture,Delhi,1122415,14-02-2026 11:40,14-02-2026 11:40,open
+281,281,HR Executive,Part-Time,Capgemini,Pune,1217175,14-02-2026 11:40,14-02-2026 11:40,open
+282,282,Marketing Manager,Part-Time,Infosys,Delhi,565109,14-02-2026 11:40,14-02-2026 11:40,open
+283,283,Business Analyst,Internship,Capgemini,Mumbai,376586,14-02-2026 11:40,14-02-2026 11:40,open
+284,284,Marketing Manager,Contract,Infosys,Pune,907000,14-02-2026 11:40,14-02-2026 11:40,closed
+285,285,Web Designer,Part-Time,Accenture,Pune,544295,14-02-2026 11:40,14-02-2026 11:40,open
+286,286,Marketing Manager,Internship,Accenture,Delhi,371192,14-02-2026 11:40,14-02-2026 11:40,closed
+287,287,Data Analyst,Internship,Wipro,Mumbai,542200,14-02-2026 11:40,14-02-2026 11:40,closed
+288,288,Project Manager,Contract,HCL,Pune,751411,14-02-2026 11:40,14-02-2026 11:40,open
+289,289,Accountant,Contract,HCL,Mumbai,892741,14-02-2026 11:40,14-02-2026 11:40,closed
+290,290,Accountant,Full-Time,Capgemini,Delhi,1045199,14-02-2026 11:40,14-02-2026 11:40,open
+291,291,HR Executive,Contract,HCL,Bangalore,592148,14-02-2026 11:40,14-02-2026 11:40,closed
+292,292,Web Designer,Contract,Infosys,Mumbai,659540,14-02-2026 11:40,14-02-2026 11:40,open
+293,293,Web Designer,Internship,Capgemini,Hyderabad,1035150,14-02-2026 11:40,14-02-2026 11:40,open
+294,294,Software Developer,Part-Time,Wipro,Bangalore,864539,14-02-2026 11:40,14-02-2026 11:40,open
+295,295,Marketing Manager,Internship,HCL,Chennai,1048609,14-02-2026 11:40,14-02-2026 11:40,open
+296,296,Web Designer,Full-Time,Wipro,Mumbai,751084,14-02-2026 11:40,14-02-2026 11:40,closed
+297,297,Business Analyst,Full-Time,Wipro,Chennai,249801,14-02-2026 11:40,14-02-2026 11:40,open
+298,298,Software Developer,Internship,Tech Mahindra,Chennai,564594,14-02-2026 11:40,14-02-2026 11:40,closed
+299,299,Business Analyst,Contract,Infosys,Delhi,336721,14-02-2026 11:40,14-02-2026 11:40,closed
+300,300,HR Executive,Internship,Accenture,Bangalore,1235395,14-02-2026 11:40,14-02-2026 11:40,closed
+301,301,Web Designer,Part-Time,Capgemini,Chennai,809506,14-02-2026 11:40,14-02-2026 11:40,closed
+302,302,Project Manager,Part-Time,Tech Mahindra,Chennai,352010,14-02-2026 11:40,14-02-2026 11:40,closed
+303,303,Marketing Manager,Internship,Capgemini,Bangalore,465575,14-02-2026 11:40,14-02-2026 11:40,closed
+304,304,Project Manager,Internship,Tech Mahindra,Bangalore,352731,14-02-2026 11:40,14-02-2026 11:40,open
+305,305,Data Analyst,Contract,Accenture,Delhi,663638,14-02-2026 11:40,14-02-2026 11:40,closed
+306,306,Accountant,Part-Time,Accenture,Bangalore,699633,14-02-2026 11:40,14-02-2026 11:40,closed
+307,307,Web Designer,Contract,Wipro,Delhi,624884,14-02-2026 11:40,14-02-2026 11:40,open
+308,308,Accountant,Full-Time,Wipro,Bangalore,787259,14-02-2026 11:40,14-02-2026 11:40,closed
+309,309,HR Executive,Internship,Capgemini,Mumbai,1301993,14-02-2026 11:40,14-02-2026 11:40,open
+310,310,Software Developer,Internship,TCS,Delhi,1440181,14-02-2026 11:40,14-02-2026 11:40,open
+311,311,Software Developer,Part-Time,Capgemini,Chennai,464926,14-02-2026 11:40,14-02-2026 11:40,closed
+312,312,Web Designer,Part-Time,Infosys,Hyderabad,815539,14-02-2026 11:40,14-02-2026 11:40,closed
+313,313,Web Designer,Part-Time,Wipro,Mumbai,756235,14-02-2026 11:40,14-02-2026 11:40,closed
+314,314,Marketing Manager,Full-Time,Tech Mahindra,Pune,786753,14-02-2026 11:40,14-02-2026 11:40,open
+315,315,Business Analyst,Contract,Wipro,Bangalore,678510,14-02-2026 11:40,14-02-2026 11:40,closed
+316,316,Web Designer,Part-Time,Wipro,Hyderabad,1438144,14-02-2026 11:40,14-02-2026 11:40,open
+317,317,Data Analyst,Full-Time,Capgemini,Bangalore,1294423,14-02-2026 11:40,14-02-2026 11:40,open
+318,318,Accountant,Part-Time,TCS,Delhi,514697,14-02-2026 11:40,14-02-2026 11:40,open
+319,319,Software Developer,Part-Time,HCL,Chennai,1236536,14-02-2026 11:40,14-02-2026 11:40,open
+320,320,Marketing Manager,Full-Time,Infosys,Pune,1322224,14-02-2026 11:40,14-02-2026 11:40,open
+321,321,Software Developer,Contract,TCS,Delhi,273376,14-02-2026 11:40,14-02-2026 11:40,open
+322,322,Project Manager,Part-Time,Wipro,Bangalore,788199,14-02-2026 11:40,14-02-2026 11:40,closed
+323,323,Business Analyst,Full-Time,HCL,Hyderabad,973610,14-02-2026 11:40,14-02-2026 11:40,open
+324,324,Project Manager,Part-Time,Wipro,Pune,263092,14-02-2026 11:40,14-02-2026 11:40,closed
+325,325,Software Developer,Part-Time,HCL,Delhi,1133039,14-02-2026 11:40,14-02-2026 11:40,closed
+326,326,Accountant,Part-Time,Infosys,Pune,945208,14-02-2026 11:40,14-02-2026 11:40,closed
+327,327,HR Executive,Part-Time,Tech Mahindra,Mumbai,1496862,14-02-2026 11:40,14-02-2026 11:40,closed
+328,328,HR Executive,Full-Time,Capgemini,Hyderabad,651040,14-02-2026 11:40,14-02-2026 11:40,open
+329,329,Accountant,Part-Time,Capgemini,Bangalore,352429,14-02-2026 11:40,14-02-2026 11:40,closed
+330,330,Project Manager,Full-Time,Infosys,Chennai,404471,14-02-2026 11:40,14-02-2026 11:40,open
+331,331,Data Analyst,Internship,Capgemini,Mumbai,1156165,14-02-2026 11:40,14-02-2026 11:40,closed
+332,332,Data Analyst,Full-Time,Capgemini,Chennai,1355311,14-02-2026 11:40,14-02-2026 11:40,open
+333,333,Web Designer,Part-Time,Infosys,Mumbai,1430361,14-02-2026 11:40,14-02-2026 11:40,open
+334,334,Business Analyst,Part-Time,Capgemini,Hyderabad,1241676,14-02-2026 11:40,14-02-2026 11:40,closed
+335,335,HR Executive,Part-Time,Tech Mahindra,Mumbai,1455026,14-02-2026 11:40,14-02-2026 11:40,closed
+336,336,Project Manager,Internship,Tech Mahindra,Pune,832859,14-02-2026 11:40,14-02-2026 11:40,open
+337,337,Marketing Manager,Full-Time,Tech Mahindra,Hyderabad,1051447,14-02-2026 11:40,14-02-2026 11:40,closed
+338,338,Accountant,Internship,Capgemini,Mumbai,716978,14-02-2026 11:40,14-02-2026 11:40,closed
+339,339,HR Executive,Full-Time,Accenture,Hyderabad,601108,14-02-2026 11:40,14-02-2026 11:40,open
+340,340,Marketing Manager,Internship,Accenture,Pune,785667,14-02-2026 11:40,14-02-2026 11:40,closed
+341,341,Web Designer,Contract,Accenture,Delhi,903170,14-02-2026 11:40,14-02-2026 11:40,closed
+342,342,Project Manager,Contract,TCS,Chennai,672593,14-02-2026 11:40,14-02-2026 11:40,open
+343,343,HR Executive,Part-Time,Wipro,Hyderabad,584149,14-02-2026 11:40,14-02-2026 11:40,open
+344,344,Data Analyst,Contract,Tech Mahindra,Pune,1338759,14-02-2026 11:40,14-02-2026 11:40,open
+345,345,HR Executive,Contract,Infosys,Chennai,800119,14-02-2026 11:40,14-02-2026 11:40,closed
+346,346,Business Analyst,Internship,TCS,Bangalore,402343,14-02-2026 11:40,14-02-2026 11:40,open
+347,347,Software Developer,Contract,Wipro,Delhi,477215,14-02-2026 11:40,14-02-2026 11:40,closed
+348,348,Marketing Manager,Internship,Capgemini,Bangalore,1052860,14-02-2026 11:40,14-02-2026 11:40,open
+349,349,Accountant,Part-Time,TCS,Delhi,637195,14-02-2026 11:40,14-02-2026 11:40,closed
+350,350,Project Manager,Full-Time,Accenture,Chennai,1052103,14-02-2026 11:40,14-02-2026 11:40,open
+351,351,Project Manager,Full-Time,Infosys,Mumbai,384738,14-02-2026 11:40,14-02-2026 11:40,open
+352,352,Project Manager,Full-Time,Accenture,Bangalore,1032603,14-02-2026 11:40,14-02-2026 11:40,open
+353,353,Marketing Manager,Full-Time,Infosys,Delhi,1101141,14-02-2026 11:40,14-02-2026 11:40,open
+354,354,Business Analyst,Part-Time,Capgemini,Hyderabad,1234658,14-02-2026 11:40,14-02-2026 11:40,open
+355,355,HR Executive,Contract,Tech Mahindra,Hyderabad,207049,14-02-2026 11:40,14-02-2026 11:40,open
+356,356,Project Manager,Internship,Capgemini,Bangalore,721073,14-02-2026 11:40,14-02-2026 11:40,closed
+357,357,Software Developer,Part-Time,Capgemini,Mumbai,1062611,14-02-2026 11:40,14-02-2026 11:40,open
+358,358,Marketing Manager,Full-Time,Capgemini,Pune,744175,14-02-2026 11:40,14-02-2026 11:40,open
+359,359,Project Manager,Internship,Tech Mahindra,Pune,1452794,14-02-2026 11:40,14-02-2026 11:40,open
+360,360,Data Analyst,Part-Time,HCL,Chennai,553468,14-02-2026 11:40,14-02-2026 11:40,open
+361,361,Business Analyst,Contract,HCL,Pune,211224,14-02-2026 11:40,14-02-2026 11:40,open
+362,362,Data Analyst,Full-Time,Capgemini,Hyderabad,1363772,14-02-2026 11:40,14-02-2026 11:40,closed
+363,363,HR Executive,Part-Time,Infosys,Bangalore,1030877,14-02-2026 11:40,14-02-2026 11:40,open
+364,364,Software Developer,Full-Time,HCL,Delhi,570696,14-02-2026 11:40,14-02-2026 11:40,closed
+365,365,Business Analyst,Part-Time,Tech Mahindra,Pune,886562,14-02-2026 11:40,14-02-2026 11:40,closed
+366,366,Web Designer,Part-Time,Accenture,Bangalore,1312216,14-02-2026 11:40,14-02-2026 11:40,closed
+367,367,Marketing Manager,Contract,TCS,Bangalore,606564,14-02-2026 11:40,14-02-2026 11:40,closed
+368,368,HR Executive,Contract,Tech Mahindra,Mumbai,1247898,14-02-2026 11:40,14-02-2026 11:40,open
+369,369,Data Analyst,Internship,Tech Mahindra,Hyderabad,1120519,14-02-2026 11:40,14-02-2026 11:40,closed
+370,370,Accountant,Part-Time,HCL,Pune,1185814,14-02-2026 11:40,14-02-2026 11:40,closed
+371,371,HR Executive,Contract,Wipro,Pune,850765,14-02-2026 11:40,14-02-2026 11:40,closed
+372,372,Software Developer,Contract,Capgemini,Bangalore,416802,14-02-2026 11:40,14-02-2026 11:40,closed
+373,373,Software Developer,Part-Time,Infosys,Pune,254185,14-02-2026 11:40,14-02-2026 11:40,open
+374,374,Project Manager,Part-Time,Infosys,Delhi,421778,14-02-2026 11:40,14-02-2026 11:40,open
+375,375,Accountant,Contract,Tech Mahindra,Hyderabad,717967,14-02-2026 11:40,14-02-2026 11:40,open
+376,376,HR Executive,Contract,Tech Mahindra,Chennai,1058115,14-02-2026 11:40,14-02-2026 11:40,closed
+377,377,Accountant,Contract,Tech Mahindra,Mumbai,852447,14-02-2026 11:40,14-02-2026 11:40,open
+378,378,Marketing Manager,Part-Time,HCL,Chennai,550169,14-02-2026 11:40,14-02-2026 11:40,closed
+379,379,Web Designer,Contract,HCL,Bangalore,900247,14-02-2026 11:40,14-02-2026 11:40,closed
+380,380,Web Designer,Contract,HCL,Hyderabad,559124,14-02-2026 11:40,14-02-2026 11:40,open
+381,381,HR Executive,Full-Time,HCL,Hyderabad,1321311,14-02-2026 11:40,14-02-2026 11:40,open
+382,382,Software Developer,Full-Time,Accenture,Pune,784649,14-02-2026 11:40,14-02-2026 11:40,closed
+383,383,Software Developer,Internship,Infosys,Mumbai,437773,14-02-2026 11:40,14-02-2026 11:40,open
+384,384,Data Analyst,Contract,TCS,Delhi,1238068,14-02-2026 11:40,14-02-2026 11:40,closed
+385,385,Accountant,Part-Time,Accenture,Hyderabad,1038662,14-02-2026 11:40,14-02-2026 11:40,open
+386,386,Accountant,Part-Time,Capgemini,Chennai,1037334,14-02-2026 11:40,14-02-2026 11:40,open
+387,387,Data Analyst,Full-Time,Wipro,Hyderabad,943656,14-02-2026 11:40,14-02-2026 11:40,open
+388,388,Software Developer,Contract,HCL,Mumbai,489774,14-02-2026 11:40,14-02-2026 11:40,open
+389,389,HR Executive,Internship,Wipro,Chennai,963025,14-02-2026 11:40,14-02-2026 11:40,open
+390,390,HR Executive,Full-Time,Tech Mahindra,Delhi,1245544,14-02-2026 11:40,14-02-2026 11:40,closed
+391,391,HR Executive,Internship,Accenture,Hyderabad,695462,14-02-2026 11:40,14-02-2026 11:40,closed
+392,392,Business Analyst,Part-Time,HCL,Mumbai,1349973,14-02-2026 11:40,14-02-2026 11:40,closed
+393,393,Marketing Manager,Internship,Accenture,Pune,790685,14-02-2026 11:40,14-02-2026 11:40,open
+394,394,Marketing Manager,Part-Time,Wipro,Hyderabad,495604,14-02-2026 11:40,14-02-2026 11:40,open
+395,395,Marketing Manager,Part-Time,Infosys,Bangalore,1376149,14-02-2026 11:40,14-02-2026 11:40,closed
+396,396,Data Analyst,Internship,Infosys,Pune,1296254,14-02-2026 11:40,14-02-2026 11:40,closed
+397,397,HR Executive,Contract,Infosys,Mumbai,360820,14-02-2026 11:40,14-02-2026 11:40,closed
+398,398,Web Designer,Contract,Wipro,Hyderabad,745052,14-02-2026 11:40,14-02-2026 11:40,closed
+399,399,Software Developer,Contract,Accenture,Mumbai,1187325,14-02-2026 11:40,14-02-2026 11:40,open
+400,400,Marketing Manager,Contract,Capgemini,Delhi,1408794,14-02-2026 11:40,14-02-2026 11:40,closed
+401,401,HR Executive,Contract,TCS,Bangalore,922445,14-02-2026 11:40,14-02-2026 11:40,open
+402,402,Software Developer,Contract,Capgemini,Mumbai,814687,14-02-2026 11:40,14-02-2026 11:40,open
+403,403,Data Analyst,Contract,Infosys,Hyderabad,980083,14-02-2026 11:40,14-02-2026 11:40,open
+404,404,Software Developer,Contract,Tech Mahindra,Delhi,525339,14-02-2026 11:40,14-02-2026 11:40,closed
+405,405,Project Manager,Contract,HCL,Hyderabad,1009820,14-02-2026 11:40,14-02-2026 11:40,closed
+406,406,Software Developer,Full-Time,HCL,Bangalore,1209959,14-02-2026 11:40,14-02-2026 11:40,closed
+407,407,Project Manager,Part-Time,Tech Mahindra,Delhi,402303,14-02-2026 11:40,14-02-2026 11:40,closed
+408,408,Marketing Manager,Contract,Accenture,Delhi,680104,14-02-2026 11:40,14-02-2026 11:40,open
+409,409,Business Analyst,Part-Time,TCS,Chennai,1467429,14-02-2026 11:40,14-02-2026 11:40,closed
+410,410,Software Developer,Contract,TCS,Bangalore,1317190,14-02-2026 11:40,14-02-2026 11:40,closed
+411,411,Business Analyst,Contract,Capgemini,Pune,379196,14-02-2026 11:40,14-02-2026 11:40,open
+412,412,Accountant,Contract,Accenture,Bangalore,466802,14-02-2026 11:40,14-02-2026 11:40,closed
+413,413,Accountant,Part-Time,HCL,Bangalore,820161,14-02-2026 11:40,14-02-2026 11:40,closed
+414,414,HR Executive,Contract,Tech Mahindra,Delhi,1044632,14-02-2026 11:40,14-02-2026 11:40,closed
+415,415,Data Analyst,Contract,TCS,Mumbai,467473,14-02-2026 11:40,14-02-2026 11:40,open
+416,416,Web Designer,Internship,HCL,Bangalore,750473,14-02-2026 11:40,14-02-2026 11:40,open
+417,417,Accountant,Internship,Capgemini,Bangalore,915856,14-02-2026 11:40,14-02-2026 11:40,open
+418,418,Web Designer,Contract,HCL,Hyderabad,614377,14-02-2026 11:40,14-02-2026 11:40,closed
+419,419,HR Executive,Contract,TCS,Bangalore,1122083,14-02-2026 11:40,14-02-2026 11:40,closed
+420,420,HR Executive,Part-Time,Infosys,Bangalore,1479472,14-02-2026 11:40,14-02-2026 11:40,open
+421,421,Marketing Manager,Part-Time,HCL,Bangalore,212894,14-02-2026 11:40,14-02-2026 11:40,open
+422,422,Software Developer,Part-Time,HCL,Chennai,240314,14-02-2026 11:40,14-02-2026 11:40,closed
+423,423,Marketing Manager,Part-Time,Infosys,Delhi,1260263,14-02-2026 11:40,14-02-2026 11:40,closed
+424,424,Marketing Manager,Contract,Tech Mahindra,Hyderabad,589972,14-02-2026 11:40,14-02-2026 11:40,closed
+425,425,HR Executive,Part-Time,Infosys,Chennai,216860,14-02-2026 11:40,14-02-2026 11:40,closed
+426,426,Marketing Manager,Contract,Infosys,Bangalore,429755,14-02-2026 11:40,14-02-2026 11:40,closed
+427,427,Web Designer,Internship,TCS,Hyderabad,1244921,14-02-2026 11:40,14-02-2026 11:40,open
+428,428,Accountant,Internship,Accenture,Delhi,685460,14-02-2026 11:40,14-02-2026 11:40,open
+429,429,Web Designer,Part-Time,Tech Mahindra,Chennai,1411704,14-02-2026 11:40,14-02-2026 11:40,closed
+430,430,Software Developer,Full-Time,HCL,Bangalore,688587,14-02-2026 11:40,14-02-2026 11:40,open
+431,431,HR Executive,Part-Time,Infosys,Bangalore,1333211,14-02-2026 11:40,14-02-2026 11:40,closed
+432,432,Software Developer,Internship,Tech Mahindra,Pune,639075,14-02-2026 11:40,14-02-2026 11:40,closed
+433,433,Project Manager,Contract,Infosys,Pune,1210311,14-02-2026 11:40,14-02-2026 11:40,open
+434,434,Business Analyst,Part-Time,Wipro,Delhi,393626,14-02-2026 11:40,14-02-2026 11:40,closed
+435,435,Project Manager,Part-Time,Capgemini,Hyderabad,514796,14-02-2026 11:40,14-02-2026 11:40,closed
+436,436,Business Analyst,Contract,Capgemini,Chennai,1263244,14-02-2026 11:40,14-02-2026 11:40,closed
+437,437,Data Analyst,Full-Time,Capgemini,Delhi,485741,14-02-2026 11:40,14-02-2026 11:40,open
+438,438,Accountant,Full-Time,Capgemini,Chennai,560556,14-02-2026 11:40,14-02-2026 11:40,open
+439,439,Business Analyst,Contract,Tech Mahindra,Mumbai,1388839,14-02-2026 11:40,14-02-2026 11:40,open
+440,440,Software Developer,Contract,Infosys,Chennai,1006757,14-02-2026 11:40,14-02-2026 11:40,closed
+441,441,Marketing Manager,Internship,HCL,Hyderabad,599518,14-02-2026 11:40,14-02-2026 11:40,closed
+442,442,HR Executive,Part-Time,Infosys,Bangalore,1454044,14-02-2026 11:40,14-02-2026 11:40,closed
+443,443,Software Developer,Part-Time,Accenture,Bangalore,717725,14-02-2026 11:40,14-02-2026 11:40,closed
+444,444,Accountant,Full-Time,Accenture,Delhi,1461769,14-02-2026 11:40,14-02-2026 11:40,closed
+445,445,Business Analyst,Full-Time,Accenture,Mumbai,1479108,14-02-2026 11:40,14-02-2026 11:40,open
+446,446,Business Analyst,Full-Time,Tech Mahindra,Hyderabad,1019866,14-02-2026 11:40,14-02-2026 11:40,closed
+447,447,Data Analyst,Internship,Accenture,Delhi,380167,14-02-2026 11:40,14-02-2026 11:40,open
+448,448,HR Executive,Contract,HCL,Chennai,1482931,14-02-2026 11:40,14-02-2026 11:40,open
+449,449,Software Developer,Part-Time,Capgemini,Bangalore,1030379,14-02-2026 11:40,14-02-2026 11:40,open
+450,450,Web Designer,Contract,Capgemini,Pune,406065,14-02-2026 11:40,14-02-2026 11:40,open
+451,451,Accountant,Full-Time,Tech Mahindra,Chennai,853676,14-02-2026 11:40,14-02-2026 11:40,open
+452,452,HR Executive,Contract,Accenture,Chennai,1111242,14-02-2026 11:40,14-02-2026 11:40,closed
+453,453,Software Developer,Part-Time,HCL,Chennai,691451,14-02-2026 11:40,14-02-2026 11:40,closed
+454,454,Data Analyst,Internship,Wipro,Mumbai,1311513,14-02-2026 11:40,14-02-2026 11:40,open
+455,455,Software Developer,Contract,TCS,Bangalore,1489967,14-02-2026 11:40,14-02-2026 11:40,closed
+456,456,Web Designer,Contract,HCL,Mumbai,1244404,14-02-2026 11:40,14-02-2026 11:40,open
+457,457,Accountant,Contract,HCL,Hyderabad,714020,14-02-2026 11:40,14-02-2026 11:40,closed
+458,458,Data Analyst,Contract,Infosys,Delhi,935452,14-02-2026 11:40,14-02-2026 11:40,open
+459,459,Accountant,Full-Time,TCS,Hyderabad,793492,14-02-2026 11:40,14-02-2026 11:40,closed
+460,460,Project Manager,Internship,Infosys,Mumbai,796795,14-02-2026 11:40,14-02-2026 11:40,closed
+461,461,Data Analyst,Full-Time,Tech Mahindra,Hyderabad,212660,14-02-2026 11:40,14-02-2026 11:40,open
+462,462,Project Manager,Internship,Wipro,Bangalore,1371628,14-02-2026 11:40,14-02-2026 11:40,closed
+463,463,Marketing Manager,Internship,HCL,Bangalore,1281839,14-02-2026 11:40,14-02-2026 11:40,open
+464,464,Accountant,Part-Time,TCS,Delhi,370550,14-02-2026 11:40,14-02-2026 11:40,open
+465,465,HR Executive,Internship,Tech Mahindra,Bangalore,1310041,14-02-2026 11:40,14-02-2026 11:40,open
+466,466,Accountant,Part-Time,HCL,Bangalore,1497048,14-02-2026 11:40,14-02-2026 11:40,open
+467,467,Accountant,Part-Time,HCL,Chennai,1242847,14-02-2026 11:40,14-02-2026 11:40,open
+468,468,HR Executive,Full-Time,Accenture,Pune,1182649,14-02-2026 11:40,14-02-2026 11:40,closed
+469,469,Business Analyst,Part-Time,Infosys,Delhi,1496850,14-02-2026 11:40,14-02-2026 11:40,closed
+470,470,Data Analyst,Contract,Capgemini,Pune,514536,14-02-2026 11:40,14-02-2026 11:40,closed
+471,471,Data Analyst,Full-Time,Capgemini,Mumbai,1101933,14-02-2026 11:40,14-02-2026 11:40,closed
+472,472,Web Designer,Internship,HCL,Pune,1243839,14-02-2026 11:40,14-02-2026 11:40,closed
+473,473,Data Analyst,Full-Time,Capgemini,Pune,1143884,14-02-2026 11:40,14-02-2026 11:40,closed
+474,474,Data Analyst,Full-Time,Capgemini,Pune,451857,14-02-2026 11:40,14-02-2026 11:40,open
+475,475,Software Developer,Contract,Tech Mahindra,Chennai,628902,14-02-2026 11:40,14-02-2026 11:40,closed
+476,476,Business Analyst,Part-Time,Wipro,Hyderabad,640701,14-02-2026 11:40,14-02-2026 11:40,closed
+477,477,Software Developer,Part-Time,Tech Mahindra,Chennai,401868,14-02-2026 11:40,14-02-2026 11:40,open
+478,478,Web Designer,Full-Time,Capgemini,Delhi,1018870,14-02-2026 11:40,14-02-2026 11:40,closed
+479,479,Marketing Manager,Part-Time,Infosys,Delhi,1184977,14-02-2026 11:40,14-02-2026 11:40,closed
+480,480,Software Developer,Part-Time,HCL,Mumbai,1108021,14-02-2026 11:40,14-02-2026 11:40,closed
+481,481,Software Developer,Internship,Wipro,Bangalore,283633,14-02-2026 11:40,14-02-2026 11:40,closed
+482,482,Business Analyst,Internship,Wipro,Hyderabad,1278895,14-02-2026 11:40,14-02-2026 11:40,closed
+483,483,Software Developer,Internship,HCL,Pune,773008,14-02-2026 11:40,14-02-2026 11:40,open
+484,484,Marketing Manager,Contract,TCS,Bangalore,1425793,14-02-2026 11:40,14-02-2026 11:40,open
+485,485,Business Analyst,Full-Time,Wipro,Chennai,1063868,14-02-2026 11:40,14-02-2026 11:40,open
+486,486,Data Analyst,Contract,Tech Mahindra,Chennai,924637,14-02-2026 11:40,14-02-2026 11:40,closed
+487,487,Web Designer,Full-Time,Wipro,Pune,857147,14-02-2026 11:40,14-02-2026 11:40,open
+488,488,Accountant,Contract,Accenture,Hyderabad,447887,14-02-2026 11:40,14-02-2026 11:40,closed
+489,489,Web Designer,Internship,Infosys,Bangalore,1246135,14-02-2026 11:40,14-02-2026 11:40,open
+490,490,Accountant,Full-Time,TCS,Pune,810807,14-02-2026 11:40,14-02-2026 11:40,closed
+491,491,Data Analyst,Contract,Accenture,Chennai,1292075,14-02-2026 11:40,14-02-2026 11:40,closed
+492,492,HR Executive,Contract,Wipro,Hyderabad,1254966,14-02-2026 11:40,14-02-2026 11:40,closed
+493,493,Marketing Manager,Part-Time,TCS,Pune,1418614,14-02-2026 11:40,14-02-2026 11:40,open
+494,494,HR Executive,Internship,HCL,Pune,993790,14-02-2026 11:40,14-02-2026 11:40,open
+495,495,Marketing Manager,Internship,Wipro,Pune,1182244,14-02-2026 11:40,14-02-2026 11:40,open
+496,496,Web Designer,Full-Time,Infosys,Chennai,706856,14-02-2026 11:40,14-02-2026 11:40,closed
+497,497,Web Designer,Internship,Tech Mahindra,Pune,894115,14-02-2026 11:40,14-02-2026 11:40,open
+498,498,Data Analyst,Contract,Infosys,Delhi,495164,14-02-2026 11:40,14-02-2026 11:40,closed
+499,499,HR Executive,Internship,Tech Mahindra,Pune,1332587,14-02-2026 11:40,14-02-2026 11:40,closed
+500,500,Project Manager,Internship,Wipro,Mumbai,812314,14-02-2026 11:40,14-02-2026 11:40,closed
+501,501,Web Designer,Full-Time,Wipro,Bangalore,1017063,14-02-2026 11:40,14-02-2026 11:40,open
+502,502,Data Analyst,Full-Time,Wipro,Bangalore,1003636,14-02-2026 11:40,14-02-2026 11:40,open
+503,503,Data Analyst,Internship,Tech Mahindra,Chennai,858161,14-02-2026 11:40,14-02-2026 11:40,closed
+504,504,Software Developer,Internship,HCL,Hyderabad,897047,14-02-2026 11:40,14-02-2026 11:40,closed
+505,505,Accountant,Contract,HCL,Pune,345343,14-02-2026 11:40,14-02-2026 11:40,closed
+506,506,Marketing Manager,Part-Time,TCS,Delhi,1161885,14-02-2026 11:40,14-02-2026 11:40,closed
+507,507,Data Analyst,Contract,Infosys,Bangalore,674427,14-02-2026 11:40,14-02-2026 11:40,open
+508,508,Software Developer,Part-Time,TCS,Delhi,1343393,14-02-2026 11:40,14-02-2026 11:40,closed
+509,509,Project Manager,Part-Time,Infosys,Pune,1003026,14-02-2026 11:40,14-02-2026 11:40,closed
+510,510,Business Analyst,Part-Time,TCS,Mumbai,1147293,14-02-2026 11:40,14-02-2026 11:40,closed
+511,511,Data Analyst,Part-Time,Wipro,Pune,1022412,14-02-2026 11:40,14-02-2026 11:40,open
+512,512,HR Executive,Internship,HCL,Bangalore,935994,14-02-2026 11:40,14-02-2026 11:40,open
+513,513,Data Analyst,Part-Time,Wipro,Mumbai,1262473,14-02-2026 11:40,14-02-2026 11:40,closed
+514,514,Data Analyst,Full-Time,Tech Mahindra,Bangalore,548675,14-02-2026 11:40,14-02-2026 11:40,closed
+515,515,Software Developer,Full-Time,TCS,Pune,1015054,14-02-2026 11:40,14-02-2026 11:40,closed
+516,516,HR Executive,Full-Time,Infosys,Pune,935693,14-02-2026 11:40,14-02-2026 11:40,closed
+517,517,HR Executive,Full-Time,HCL,Hyderabad,987001,14-02-2026 11:40,14-02-2026 11:40,closed
+518,518,Accountant,Contract,Wipro,Delhi,1478535,14-02-2026 11:40,14-02-2026 11:40,closed
+519,519,Marketing Manager,Contract,Tech Mahindra,Hyderabad,823604,14-02-2026 11:40,14-02-2026 11:40,open
+520,520,Web Designer,Part-Time,Infosys,Pune,1245098,14-02-2026 11:40,14-02-2026 11:40,open
+521,521,Data Analyst,Part-Time,Capgemini,Mumbai,560251,14-02-2026 11:40,14-02-2026 11:40,closed
+522,522,Data Analyst,Part-Time,Capgemini,Pune,404170,14-02-2026 11:40,14-02-2026 11:40,open
+523,523,Project Manager,Full-Time,HCL,Bangalore,1499109,14-02-2026 11:40,14-02-2026 11:40,closed
+524,524,Project Manager,Internship,Tech Mahindra,Chennai,671551,14-02-2026 11:40,14-02-2026 11:40,closed
+525,525,Accountant,Full-Time,Capgemini,Bangalore,304387,14-02-2026 11:40,14-02-2026 11:40,closed
+526,526,Software Developer,Full-Time,Tech Mahindra,Pune,1445975,14-02-2026 11:40,14-02-2026 11:40,closed
+527,527,HR Executive,Contract,Infosys,Bangalore,1279985,14-02-2026 11:40,14-02-2026 11:40,closed
+528,528,Accountant,Full-Time,Capgemini,Mumbai,611028,14-02-2026 11:40,14-02-2026 11:40,closed
+529,529,Web Designer,Internship,HCL,Hyderabad,1227512,14-02-2026 11:40,14-02-2026 11:40,closed
+530,530,Software Developer,Full-Time,Capgemini,Pune,476348,14-02-2026 11:40,14-02-2026 11:40,open
+531,531,Software Developer,Full-Time,Infosys,Hyderabad,973988,14-02-2026 11:40,14-02-2026 11:40,closed
+532,532,Business Analyst,Internship,Capgemini,Chennai,1098934,14-02-2026 11:40,14-02-2026 11:40,open
+533,533,Web Designer,Part-Time,HCL,Chennai,685487,14-02-2026 11:40,14-02-2026 11:40,closed
+534,534,HR Executive,Internship,Infosys,Chennai,905776,14-02-2026 11:40,14-02-2026 11:40,open
+535,535,Business Analyst,Full-Time,Capgemini,Chennai,576280,14-02-2026 11:40,14-02-2026 11:40,closed
+536,536,Web Designer,Part-Time,Capgemini,Mumbai,1431734,14-02-2026 11:40,14-02-2026 11:40,open
+537,537,Marketing Manager,Internship,Wipro,Mumbai,792399,14-02-2026 11:40,14-02-2026 11:40,closed
+538,538,Web Designer,Contract,Tech Mahindra,Delhi,672179,14-02-2026 11:40,14-02-2026 11:40,closed
+539,539,Data Analyst,Internship,TCS,Bangalore,1022265,14-02-2026 11:40,14-02-2026 11:40,open
+540,540,Accountant,Internship,Accenture,Mumbai,234463,14-02-2026 11:40,14-02-2026 11:40,open
+541,541,Data Analyst,Internship,TCS,Hyderabad,573659,14-02-2026 11:40,14-02-2026 11:40,open
+542,542,Marketing Manager,Part-Time,Infosys,Pune,305081,14-02-2026 11:40,14-02-2026 11:40,closed
+543,543,Project Manager,Part-Time,Tech Mahindra,Mumbai,203698,14-02-2026 11:40,14-02-2026 11:40,open
+544,544,Data Analyst,Contract,Accenture,Pune,1180836,14-02-2026 11:40,14-02-2026 11:40,open
+545,545,Accountant,Full-Time,Capgemini,Mumbai,1081279,14-02-2026 11:40,14-02-2026 11:40,open
+546,546,Software Developer,Contract,Infosys,Delhi,895636,14-02-2026 11:40,14-02-2026 11:40,closed
+547,547,Web Designer,Internship,Capgemini,Delhi,479585,14-02-2026 11:40,14-02-2026 11:40,open
+548,548,Data Analyst,Contract,Accenture,Pune,813427,14-02-2026 11:40,14-02-2026 11:40,open
+549,549,Software Developer,Internship,Wipro,Delhi,563157,14-02-2026 11:40,14-02-2026 11:40,closed
+550,550,Data Analyst,Full-Time,Wipro,Hyderabad,1072501,14-02-2026 11:40,14-02-2026 11:40,closed
+551,551,Software Developer,Internship,Capgemini,Mumbai,953946,14-02-2026 11:40,14-02-2026 11:40,open
+552,552,Data Analyst,Full-Time,Accenture,Mumbai,331693,14-02-2026 11:40,14-02-2026 11:40,open
+553,553,Project Manager,Contract,Infosys,Pune,1177601,14-02-2026 11:40,14-02-2026 11:40,open
+554,554,Project Manager,Contract,Accenture,Delhi,1052624,14-02-2026 11:40,14-02-2026 11:40,open
+555,555,HR Executive,Part-Time,Infosys,Hyderabad,1021288,14-02-2026 11:40,14-02-2026 11:40,closed
+556,556,Software Developer,Part-Time,TCS,Delhi,1425995,14-02-2026 11:40,14-02-2026 11:40,open
+557,557,Data Analyst,Full-Time,Tech Mahindra,Delhi,314418,14-02-2026 11:40,14-02-2026 11:40,open
+558,558,Project Manager,Part-Time,TCS,Hyderabad,370268,14-02-2026 11:40,14-02-2026 11:40,closed
+559,559,HR Executive,Internship,TCS,Bangalore,857491,14-02-2026 11:40,14-02-2026 11:40,open
+560,560,Data Analyst,Contract,Capgemini,Pune,369019,14-02-2026 11:40,14-02-2026 11:40,closed
+561,561,Accountant,Full-Time,Wipro,Hyderabad,1389263,14-02-2026 11:40,14-02-2026 11:40,closed
+562,562,Accountant,Contract,Tech Mahindra,Mumbai,468524,14-02-2026 11:40,14-02-2026 11:40,open
+563,563,Accountant,Internship,Capgemini,Bangalore,259448,14-02-2026 11:40,14-02-2026 11:40,closed
+564,564,Accountant,Part-Time,TCS,Bangalore,605570,14-02-2026 11:40,14-02-2026 11:40,closed
+565,565,Business Analyst,Full-Time,Tech Mahindra,Bangalore,1096870,14-02-2026 11:40,14-02-2026 11:40,open
+566,566,Software Developer,Part-Time,Accenture,Mumbai,200697,14-02-2026 11:40,14-02-2026 11:40,open
+567,567,Software Developer,Full-Time,HCL,Chennai,1323979,14-02-2026 11:40,14-02-2026 11:40,open
+568,568,Data Analyst,Contract,HCL,Chennai,1334164,14-02-2026 11:40,14-02-2026 11:40,closed
+569,569,Business Analyst,Contract,Wipro,Chennai,321361,14-02-2026 11:40,14-02-2026 11:40,open
+570,570,Accountant,Contract,Capgemini,Bangalore,318244,14-02-2026 11:40,14-02-2026 11:40,open
+571,571,Software Developer,Internship,Wipro,Mumbai,259456,14-02-2026 11:40,14-02-2026 11:40,open
+572,572,Marketing Manager,Part-Time,Accenture,Bangalore,1437205,14-02-2026 11:40,14-02-2026 11:40,open
+573,573,Project Manager,Contract,Accenture,Hyderabad,546407,14-02-2026 11:40,14-02-2026 11:40,closed
+574,574,Accountant,Full-Time,TCS,Bangalore,517905,14-02-2026 11:40,14-02-2026 11:40,open
+575,575,Accountant,Part-Time,TCS,Bangalore,933897,14-02-2026 11:40,14-02-2026 11:40,open
+576,576,Project Manager,Contract,TCS,Chennai,1320023,14-02-2026 11:40,14-02-2026 11:40,closed
+577,577,Web Designer,Part-Time,Capgemini,Chennai,595840,14-02-2026 11:40,14-02-2026 11:40,closed
+578,578,Data Analyst,Full-Time,Accenture,Delhi,1257421,14-02-2026 11:40,14-02-2026 11:40,open
+579,579,Marketing Manager,Full-Time,Accenture,Pune,1020870,14-02-2026 11:40,14-02-2026 11:40,open
+580,580,Data Analyst,Contract,Accenture,Hyderabad,784921,14-02-2026 11:40,14-02-2026 11:40,open
+581,581,Project Manager,Full-Time,TCS,Bangalore,1372914,14-02-2026 11:40,14-02-2026 11:40,open
+582,582,Web Designer,Full-Time,Tech Mahindra,Chennai,1475849,14-02-2026 11:40,14-02-2026 11:40,closed
+583,583,HR Executive,Contract,Tech Mahindra,Pune,434531,14-02-2026 11:40,14-02-2026 11:40,closed
+584,584,Data Analyst,Full-Time,Infosys,Bangalore,966013,14-02-2026 11:40,14-02-2026 11:40,closed
+585,585,Web Designer,Contract,TCS,Delhi,885200,14-02-2026 11:40,14-02-2026 11:40,open
+586,586,Data Analyst,Full-Time,Infosys,Chennai,684843,14-02-2026 11:40,14-02-2026 11:40,open
+587,587,Accountant,Part-Time,Accenture,Pune,1492439,14-02-2026 11:40,14-02-2026 11:40,open
+588,588,Data Analyst,Part-Time,HCL,Delhi,1102647,14-02-2026 11:40,14-02-2026 11:40,closed
+589,589,Business Analyst,Part-Time,Wipro,Delhi,1128687,14-02-2026 11:40,14-02-2026 11:40,closed
+590,590,Project Manager,Part-Time,HCL,Hyderabad,834752,14-02-2026 11:40,14-02-2026 11:40,open
+591,591,Accountant,Contract,Wipro,Delhi,1255960,14-02-2026 11:40,14-02-2026 11:40,open
+592,592,Web Designer,Full-Time,Capgemini,Delhi,384975,14-02-2026 11:40,14-02-2026 11:40,open
+593,593,Accountant,Contract,TCS,Bangalore,378331,14-02-2026 11:40,14-02-2026 11:40,open
+594,594,HR Executive,Internship,Infosys,Chennai,1110776,14-02-2026 11:40,14-02-2026 11:40,closed
+595,595,Data Analyst,Full-Time,Capgemini,Delhi,1181234,14-02-2026 11:40,14-02-2026 11:40,closed
+596,596,Business Analyst,Full-Time,Capgemini,Pune,285894,14-02-2026 11:40,14-02-2026 11:40,open
+597,597,Accountant,Internship,Accenture,Hyderabad,240597,14-02-2026 11:40,14-02-2026 11:40,open
+598,598,HR Executive,Part-Time,TCS,Mumbai,977276,14-02-2026 11:40,14-02-2026 11:40,open
+599,599,Project Manager,Part-Time,Capgemini,Bangalore,288982,14-02-2026 11:40,14-02-2026 11:40,open
+600,600,HR Executive,Full-Time,Capgemini,Chennai,348765,14-02-2026 11:40,14-02-2026 11:40,open
+601,601,Marketing Manager,Full-Time,HCL,Delhi,1264658,14-02-2026 11:40,14-02-2026 11:40,closed
+602,602,Accountant,Part-Time,Wipro,Mumbai,379040,14-02-2026 11:40,14-02-2026 11:40,closed
+603,603,Accountant,Full-Time,Capgemini,Delhi,760594,14-02-2026 11:40,14-02-2026 11:40,open
+604,604,Accountant,Part-Time,Capgemini,Delhi,974392,14-02-2026 11:40,14-02-2026 11:40,closed
+605,605,Project Manager,Internship,Tech Mahindra,Mumbai,1460556,14-02-2026 11:40,14-02-2026 11:40,open
+606,606,Data Analyst,Internship,Tech Mahindra,Pune,1238554,14-02-2026 11:40,14-02-2026 11:40,open
+607,607,Web Designer,Full-Time,Accenture,Bangalore,1008967,14-02-2026 11:40,14-02-2026 11:40,closed
+608,608,Software Developer,Full-Time,Wipro,Delhi,640791,14-02-2026 11:40,14-02-2026 11:40,open
+609,609,Data Analyst,Contract,TCS,Chennai,931743,14-02-2026 11:40,14-02-2026 11:40,open
+610,610,Project Manager,Full-Time,Wipro,Chennai,909815,14-02-2026 11:40,14-02-2026 11:40,open
+611,611,HR Executive,Part-Time,HCL,Hyderabad,1104553,14-02-2026 11:40,14-02-2026 11:40,open
+612,612,HR Executive,Part-Time,Accenture,Hyderabad,1306041,14-02-2026 11:40,14-02-2026 11:40,open
+613,613,Web Designer,Contract,Tech Mahindra,Mumbai,841856,14-02-2026 11:40,14-02-2026 11:40,open
+614,614,Accountant,Full-Time,Accenture,Delhi,760099,14-02-2026 11:40,14-02-2026 11:40,open
+615,615,HR Executive,Contract,Capgemini,Delhi,260411,14-02-2026 11:40,14-02-2026 11:40,open
+616,616,Project Manager,Part-Time,Capgemini,Hyderabad,1008434,14-02-2026 11:40,14-02-2026 11:40,open
+617,617,Marketing Manager,Full-Time,HCL,Chennai,948700,14-02-2026 11:40,14-02-2026 11:40,closed
+618,618,Data Analyst,Part-Time,TCS,Pune,242527,14-02-2026 11:40,14-02-2026 11:40,closed
+619,619,Business Analyst,Contract,Accenture,Bangalore,415581,14-02-2026 11:40,14-02-2026 11:40,open
+620,620,Marketing Manager,Part-Time,Wipro,Hyderabad,228756,14-02-2026 11:40,14-02-2026 11:40,closed
+621,621,Marketing Manager,Contract,Accenture,Mumbai,1063436,14-02-2026 11:40,14-02-2026 11:40,open
+622,622,Project Manager,Part-Time,Infosys,Delhi,1351056,14-02-2026 11:40,14-02-2026 11:40,closed
+623,623,Web Designer,Internship,Wipro,Mumbai,591091,14-02-2026 11:40,14-02-2026 11:40,closed
+624,624,Business Analyst,Part-Time,Tech Mahindra,Mumbai,1398608,14-02-2026 11:40,14-02-2026 11:40,open
+625,625,Marketing Manager,Internship,Infosys,Hyderabad,677373,14-02-2026 11:40,14-02-2026 11:40,open
+626,626,Data Analyst,Contract,Infosys,Pune,1212361,14-02-2026 11:40,14-02-2026 11:40,open
+627,627,Software Developer,Part-Time,Wipro,Bangalore,1031353,14-02-2026 11:40,14-02-2026 11:40,open
+628,628,Data Analyst,Contract,HCL,Delhi,1257016,14-02-2026 11:40,14-02-2026 11:40,open
+629,629,Marketing Manager,Full-Time,Infosys,Delhi,1140369,14-02-2026 11:40,14-02-2026 11:40,closed
+630,630,Business Analyst,Part-Time,Tech Mahindra,Pune,799635,14-02-2026 11:40,14-02-2026 11:40,open
+631,631,Accountant,Part-Time,Infosys,Mumbai,274443,14-02-2026 11:40,14-02-2026 11:40,closed
+632,632,Web Designer,Part-Time,Infosys,Mumbai,898643,14-02-2026 11:40,14-02-2026 11:40,closed
+633,633,Project Manager,Contract,Accenture,Pune,221916,14-02-2026 11:40,14-02-2026 11:40,open
+634,634,Accountant,Full-Time,Wipro,Chennai,1467340,14-02-2026 11:40,14-02-2026 11:40,open
+635,635,HR Executive,Contract,HCL,Chennai,1173947,14-02-2026 11:40,14-02-2026 11:40,open
+636,636,Accountant,Contract,Infosys,Chennai,992368,14-02-2026 11:40,14-02-2026 11:40,closed
+637,637,Web Designer,Contract,TCS,Mumbai,524664,14-02-2026 11:40,14-02-2026 11:40,closed
+638,638,Marketing Manager,Part-Time,Infosys,Bangalore,1158211,14-02-2026 11:40,14-02-2026 11:40,closed
+639,639,Project Manager,Part-Time,Tech Mahindra,Delhi,1111188,14-02-2026 11:40,14-02-2026 11:40,closed
+640,640,HR Executive,Internship,Infosys,Pune,719370,14-02-2026 11:40,14-02-2026 11:40,open
+641,641,Data Analyst,Full-Time,TCS,Mumbai,1109228,14-02-2026 11:40,14-02-2026 11:40,open
+642,642,Marketing Manager,Contract,Infosys,Mumbai,1122811,14-02-2026 11:40,14-02-2026 11:40,closed
+643,643,Accountant,Internship,Tech Mahindra,Bangalore,478362,14-02-2026 11:40,14-02-2026 11:40,open
+644,644,Project Manager,Full-Time,TCS,Hyderabad,1429509,14-02-2026 11:40,14-02-2026 11:40,closed
+645,645,Business Analyst,Full-Time,HCL,Bangalore,1181877,14-02-2026 11:40,14-02-2026 11:40,open
+646,646,Marketing Manager,Part-Time,TCS,Delhi,770177,14-02-2026 11:40,14-02-2026 11:40,closed
+647,647,HR Executive,Contract,Wipro,Chennai,1186915,14-02-2026 11:40,14-02-2026 11:40,closed
+648,648,HR Executive,Contract,Capgemini,Mumbai,485446,14-02-2026 11:40,14-02-2026 11:40,closed
+649,649,Software Developer,Part-Time,Accenture,Bangalore,774482,14-02-2026 11:40,14-02-2026 11:40,open
+650,650,Data Analyst,Part-Time,Accenture,Bangalore,1221733,14-02-2026 11:40,14-02-2026 11:40,open
+651,651,HR Executive,Contract,Tech Mahindra,Mumbai,1233264,14-02-2026 11:40,14-02-2026 11:40,open
+652,652,Software Developer,Full-Time,Infosys,Hyderabad,1416989,14-02-2026 11:40,14-02-2026 11:40,open
+653,653,Data Analyst,Contract,Accenture,Delhi,1189367,14-02-2026 11:40,14-02-2026 11:40,closed
+654,654,Data Analyst,Internship,Capgemini,Chennai,533276,14-02-2026 11:40,14-02-2026 11:40,closed
+655,655,Project Manager,Internship,Wipro,Hyderabad,675885,14-02-2026 11:40,14-02-2026 11:40,closed
+656,656,Project Manager,Internship,TCS,Chennai,1456603,14-02-2026 11:40,14-02-2026 11:40,open
+657,657,Business Analyst,Contract,Accenture,Chennai,993770,14-02-2026 11:40,14-02-2026 11:40,open
+658,658,Business Analyst,Full-Time,Capgemini,Bangalore,321841,14-02-2026 11:40,14-02-2026 11:40,closed
+659,659,Business Analyst,Full-Time,HCL,Hyderabad,285374,14-02-2026 11:40,14-02-2026 11:40,closed
+660,660,Web Designer,Part-Time,Capgemini,Delhi,1009504,14-02-2026 11:40,14-02-2026 11:40,open
+661,661,Business Analyst,Internship,Wipro,Mumbai,874421,14-02-2026 11:40,14-02-2026 11:40,open
+662,662,Business Analyst,Contract,Wipro,Pune,899464,14-02-2026 11:40,14-02-2026 11:40,open
+663,663,Business Analyst,Internship,Tech Mahindra,Hyderabad,354033,14-02-2026 11:40,14-02-2026 11:40,open
+664,664,Marketing Manager,Contract,Capgemini,Delhi,986901,14-02-2026 11:40,14-02-2026 11:40,open
+665,665,Project Manager,Part-Time,HCL,Hyderabad,953899,14-02-2026 11:40,14-02-2026 11:40,closed
+666,666,Marketing Manager,Full-Time,Accenture,Chennai,547923,14-02-2026 11:40,14-02-2026 11:40,closed
+667,667,Data Analyst,Contract,TCS,Delhi,294482,14-02-2026 11:40,14-02-2026 11:40,open
+668,668,Accountant,Internship,Capgemini,Chennai,384643,14-02-2026 11:40,14-02-2026 11:40,closed
+669,669,Accountant,Internship,Infosys,Bangalore,251716,14-02-2026 11:40,14-02-2026 11:40,closed
+670,670,Project Manager,Full-Time,Infosys,Pune,604369,14-02-2026 11:40,14-02-2026 11:40,open
+671,671,Project Manager,Part-Time,HCL,Bangalore,693027,14-02-2026 11:40,14-02-2026 11:40,closed
+672,672,Project Manager,Internship,HCL,Bangalore,911932,14-02-2026 11:40,14-02-2026 11:40,open
+673,673,Accountant,Contract,Capgemini,Chennai,806324,14-02-2026 11:40,14-02-2026 11:40,closed
+674,674,Business Analyst,Part-Time,TCS,Pune,358570,14-02-2026 11:40,14-02-2026 11:40,open
+675,675,HR Executive,Internship,Capgemini,Bangalore,405266,14-02-2026 11:40,14-02-2026 11:40,open
+676,676,HR Executive,Contract,HCL,Mumbai,992293,14-02-2026 11:40,14-02-2026 11:40,open
+677,677,Data Analyst,Internship,Wipro,Chennai,1175111,14-02-2026 11:40,14-02-2026 11:40,open
+678,678,HR Executive,Part-Time,Capgemini,Bangalore,758885,14-02-2026 11:40,14-02-2026 11:40,closed
+679,679,Software Developer,Full-Time,Capgemini,Hyderabad,986428,14-02-2026 11:40,14-02-2026 11:40,closed
+680,680,Web Designer,Part-Time,HCL,Chennai,764868,14-02-2026 11:40,14-02-2026 11:40,closed
+681,681,Data Analyst,Full-Time,Capgemini,Hyderabad,1464722,14-02-2026 11:40,14-02-2026 11:40,open
+682,682,Project Manager,Internship,Infosys,Hyderabad,1310616,14-02-2026 11:40,14-02-2026 11:40,open
+683,683,Web Designer,Contract,Capgemini,Mumbai,689903,14-02-2026 11:40,14-02-2026 11:40,closed
+684,684,HR Executive,Full-Time,Tech Mahindra,Chennai,258783,14-02-2026 11:40,14-02-2026 11:40,open
+685,685,Marketing Manager,Internship,Accenture,Bangalore,782747,14-02-2026 11:40,14-02-2026 11:40,closed
+686,686,Project Manager,Full-Time,Infosys,Mumbai,813896,14-02-2026 11:40,14-02-2026 11:40,open
+687,687,Marketing Manager,Part-Time,TCS,Mumbai,839986,14-02-2026 11:40,14-02-2026 11:40,closed
+688,688,HR Executive,Part-Time,Tech Mahindra,Pune,871540,14-02-2026 11:40,14-02-2026 11:40,open
+689,689,Web Designer,Full-Time,Accenture,Hyderabad,677358,14-02-2026 11:40,14-02-2026 11:40,open
+690,690,Accountant,Contract,HCL,Pune,1179370,14-02-2026 11:40,14-02-2026 11:40,closed
+691,691,Project Manager,Part-Time,Tech Mahindra,Bangalore,488176,14-02-2026 11:40,14-02-2026 11:40,open
+692,692,Marketing Manager,Contract,Tech Mahindra,Delhi,876733,14-02-2026 11:40,14-02-2026 11:40,open
+693,693,Accountant,Part-Time,Capgemini,Pune,972459,14-02-2026 11:40,14-02-2026 11:40,closed
+694,694,Software Developer,Internship,Accenture,Chennai,684596,14-02-2026 11:40,14-02-2026 11:40,closed
+695,695,HR Executive,Internship,Infosys,Chennai,1352032,14-02-2026 11:40,14-02-2026 11:40,open
+696,696,Project Manager,Internship,HCL,Pune,734778,14-02-2026 11:40,14-02-2026 11:40,open
+697,697,Web Designer,Internship,Capgemini,Mumbai,1156288,14-02-2026 11:40,14-02-2026 11:40,closed
+698,698,Software Developer,Full-Time,Wipro,Hyderabad,687214,14-02-2026 11:40,14-02-2026 11:40,open
+699,699,Software Developer,Internship,Capgemini,Delhi,1334181,14-02-2026 11:40,14-02-2026 11:40,open
+700,700,Business Analyst,Contract,Wipro,Chennai,940121,14-02-2026 11:40,14-02-2026 11:40,open
+701,701,Project Manager,Contract,Wipro,Pune,793742,14-02-2026 11:40,14-02-2026 11:40,closed
+702,702,Project Manager,Full-Time,TCS,Pune,1101513,14-02-2026 11:40,14-02-2026 11:40,closed
+703,703,Software Developer,Part-Time,Infosys,Bangalore,1205606,14-02-2026 11:40,14-02-2026 11:40,closed
+704,704,Data Analyst,Internship,Infosys,Chennai,1313189,14-02-2026 11:40,14-02-2026 11:40,closed
+705,705,Software Developer,Contract,HCL,Hyderabad,949683,14-02-2026 11:40,14-02-2026 11:40,closed
+706,706,Marketing Manager,Contract,TCS,Mumbai,678489,14-02-2026 11:40,14-02-2026 11:40,open
+707,707,Marketing Manager,Full-Time,Wipro,Chennai,1422157,14-02-2026 11:40,14-02-2026 11:40,open
+708,708,Software Developer,Internship,Tech Mahindra,Chennai,628293,14-02-2026 11:40,14-02-2026 11:40,open
+709,709,Software Developer,Full-Time,Infosys,Chennai,962782,14-02-2026 11:40,14-02-2026 11:40,closed
+710,710,Business Analyst,Contract,Tech Mahindra,Chennai,1091202,14-02-2026 11:40,14-02-2026 11:40,closed
+711,711,Project Manager,Part-Time,Capgemini,Mumbai,795926,14-02-2026 11:40,14-02-2026 11:40,closed
+712,712,Marketing Manager,Full-Time,Infosys,Chennai,760393,14-02-2026 11:40,14-02-2026 11:40,open
+713,713,Business Analyst,Full-Time,Tech Mahindra,Delhi,480795,14-02-2026 11:40,14-02-2026 11:40,open
+714,714,Data Analyst,Full-Time,Wipro,Mumbai,729480,14-02-2026 11:40,14-02-2026 11:40,closed
+715,715,Web Designer,Part-Time,Wipro,Mumbai,310240,14-02-2026 11:40,14-02-2026 11:40,closed
+716,716,Project Manager,Contract,Wipro,Chennai,378524,14-02-2026 11:40,14-02-2026 11:40,closed
+717,717,Project Manager,Internship,HCL,Pune,1062629,14-02-2026 11:40,14-02-2026 11:40,closed
+718,718,Marketing Manager,Part-Time,Wipro,Bangalore,1318014,14-02-2026 11:40,14-02-2026 11:40,open
+719,719,Software Developer,Part-Time,Accenture,Bangalore,442481,14-02-2026 11:40,14-02-2026 11:40,closed
+720,720,Data Analyst,Internship,Accenture,Mumbai,1422991,14-02-2026 11:40,14-02-2026 11:40,closed
+721,721,Web Designer,Contract,Wipro,Pune,683418,14-02-2026 11:40,14-02-2026 11:40,closed
+722,722,Marketing Manager,Full-Time,Infosys,Chennai,1041617,14-02-2026 11:40,14-02-2026 11:40,closed
+723,723,Web Designer,Part-Time,Capgemini,Bangalore,607612,14-02-2026 11:40,14-02-2026 11:40,closed
+724,724,Project Manager,Full-Time,Capgemini,Hyderabad,643943,14-02-2026 11:40,14-02-2026 11:40,closed
+725,725,Marketing Manager,Part-Time,Accenture,Chennai,1153677,14-02-2026 11:40,14-02-2026 11:40,closed
+726,726,Business Analyst,Contract,Tech Mahindra,Bangalore,1374869,14-02-2026 11:40,14-02-2026 11:40,open
+727,727,Software Developer,Internship,Capgemini,Delhi,1104948,14-02-2026 11:40,14-02-2026 11:40,closed
+728,728,Marketing Manager,Contract,TCS,Mumbai,881346,14-02-2026 11:40,14-02-2026 11:40,open
+729,729,Software Developer,Contract,Accenture,Pune,1458168,14-02-2026 11:40,14-02-2026 11:40,open
+730,730,Marketing Manager,Full-Time,HCL,Bangalore,777712,14-02-2026 11:40,14-02-2026 11:40,closed
+731,731,Accountant,Internship,Tech Mahindra,Chennai,679635,14-02-2026 11:40,14-02-2026 11:40,open
+732,732,HR Executive,Internship,TCS,Hyderabad,1452209,14-02-2026 11:40,14-02-2026 11:40,open
+733,733,Business Analyst,Full-Time,Wipro,Bangalore,925239,14-02-2026 11:40,14-02-2026 11:40,open
+734,734,Project Manager,Part-Time,Accenture,Pune,419572,14-02-2026 11:40,14-02-2026 11:40,closed
+735,735,Software Developer,Contract,Wipro,Chennai,806805,14-02-2026 11:40,14-02-2026 11:40,open
+736,736,Project Manager,Internship,Tech Mahindra,Bangalore,817862,14-02-2026 11:40,14-02-2026 11:40,open
+737,737,Data Analyst,Internship,Capgemini,Pune,1133152,14-02-2026 11:40,14-02-2026 11:40,closed
+738,738,Web Designer,Internship,HCL,Bangalore,1435791,14-02-2026 11:40,14-02-2026 11:40,closed
+739,739,Marketing Manager,Full-Time,Accenture,Mumbai,905094,14-02-2026 11:40,14-02-2026 11:40,closed
+740,740,Web Designer,Contract,HCL,Delhi,221509,14-02-2026 11:40,14-02-2026 11:40,open
+741,741,Project Manager,Contract,HCL,Chennai,1373102,14-02-2026 11:40,14-02-2026 11:40,open
+742,742,Software Developer,Contract,Wipro,Pune,1120210,14-02-2026 11:40,14-02-2026 11:40,open
+743,743,Software Developer,Full-Time,TCS,Chennai,502003,14-02-2026 11:40,14-02-2026 11:40,closed
+744,744,Project Manager,Part-Time,Capgemini,Bangalore,554597,14-02-2026 11:40,14-02-2026 11:40,closed
+745,745,HR Executive,Internship,HCL,Bangalore,768570,14-02-2026 11:40,14-02-2026 11:40,closed
+746,746,Marketing Manager,Internship,Wipro,Delhi,1083186,14-02-2026 11:40,14-02-2026 11:40,closed
+747,747,Project Manager,Part-Time,Infosys,Bangalore,421413,14-02-2026 11:40,14-02-2026 11:40,closed
+748,748,HR Executive,Full-Time,Wipro,Mumbai,806675,14-02-2026 11:40,14-02-2026 11:40,closed
+749,749,Business Analyst,Full-Time,Capgemini,Hyderabad,959401,14-02-2026 11:40,14-02-2026 11:40,open
+750,750,Marketing Manager,Contract,Capgemini,Hyderabad,699410,14-02-2026 11:40,14-02-2026 11:40,closed
+751,751,Project Manager,Contract,Accenture,Mumbai,627220,14-02-2026 11:40,14-02-2026 11:40,closed
+752,752,HR Executive,Contract,Wipro,Hyderabad,312356,14-02-2026 11:40,14-02-2026 11:40,closed
+753,753,Project Manager,Internship,Capgemini,Delhi,1178899,14-02-2026 11:40,14-02-2026 11:40,open
+754,754,Accountant,Full-Time,TCS,Delhi,606657,14-02-2026 11:40,14-02-2026 11:40,closed
+755,755,HR Executive,Full-Time,TCS,Mumbai,964713,14-02-2026 11:40,14-02-2026 11:40,closed
+756,756,Business Analyst,Internship,Tech Mahindra,Chennai,384750,14-02-2026 11:40,14-02-2026 11:40,open
+757,757,HR Executive,Part-Time,Accenture,Chennai,957576,14-02-2026 11:40,14-02-2026 11:40,closed
+758,758,Marketing Manager,Full-Time,Infosys,Bangalore,470579,14-02-2026 11:40,14-02-2026 11:40,closed
+759,759,Software Developer,Full-Time,Infosys,Pune,1400905,14-02-2026 11:40,14-02-2026 11:40,open
+760,760,Marketing Manager,Contract,Tech Mahindra,Chennai,1081907,14-02-2026 11:40,14-02-2026 11:40,open
+761,761,Data Analyst,Internship,HCL,Delhi,836824,14-02-2026 11:40,14-02-2026 11:40,open
+762,762,Business Analyst,Part-Time,Tech Mahindra,Chennai,1481933,14-02-2026 11:40,14-02-2026 11:40,closed
+763,763,Marketing Manager,Internship,Wipro,Mumbai,331102,14-02-2026 11:40,14-02-2026 11:40,open
+764,764,Business Analyst,Part-Time,Accenture,Mumbai,331612,14-02-2026 11:40,14-02-2026 11:40,closed
+765,765,Business Analyst,Full-Time,HCL,Hyderabad,945915,14-02-2026 11:40,14-02-2026 11:40,open
+766,766,Software Developer,Full-Time,HCL,Pune,748823,14-02-2026 11:40,14-02-2026 11:40,closed
+767,767,Accountant,Full-Time,Tech Mahindra,Hyderabad,929144,14-02-2026 11:40,14-02-2026 11:40,open
+768,768,Web Designer,Internship,Capgemini,Delhi,1225517,14-02-2026 11:40,14-02-2026 11:40,closed
+769,769,Software Developer,Part-Time,Capgemini,Bangalore,1059011,14-02-2026 11:40,14-02-2026 11:40,open
+770,770,Web Designer,Full-Time,Accenture,Delhi,255993,14-02-2026 11:40,14-02-2026 11:40,open
+771,771,HR Executive,Full-Time,Accenture,Bangalore,788876,14-02-2026 11:40,14-02-2026 11:40,open
+772,772,Project Manager,Internship,Wipro,Chennai,895864,14-02-2026 11:40,14-02-2026 11:40,closed
+773,773,Web Designer,Full-Time,Tech Mahindra,Chennai,671414,14-02-2026 11:40,14-02-2026 11:40,closed
+774,774,Marketing Manager,Internship,TCS,Delhi,1166819,14-02-2026 11:40,14-02-2026 11:40,open
+775,775,HR Executive,Part-Time,TCS,Hyderabad,1156943,14-02-2026 11:40,14-02-2026 11:40,closed
+776,776,Project Manager,Internship,HCL,Bangalore,304927,14-02-2026 11:40,14-02-2026 11:40,open
+777,777,HR Executive,Contract,Capgemini,Pune,669848,14-02-2026 11:40,14-02-2026 11:40,closed
+778,778,Web Designer,Contract,Wipro,Chennai,1219005,14-02-2026 11:40,14-02-2026 11:40,closed
+779,779,HR Executive,Contract,Accenture,Chennai,707971,14-02-2026 11:40,14-02-2026 11:40,open
+780,780,Software Developer,Full-Time,TCS,Hyderabad,1089350,14-02-2026 11:40,14-02-2026 11:40,open
+781,781,Web Designer,Contract,Infosys,Bangalore,872661,14-02-2026 11:40,14-02-2026 11:40,closed
+782,782,Web Designer,Full-Time,HCL,Chennai,1127990,14-02-2026 11:40,14-02-2026 11:40,open
+783,783,Software Developer,Internship,Tech Mahindra,Pune,1211883,14-02-2026 11:40,14-02-2026 11:40,open
+784,784,Project Manager,Full-Time,Capgemini,Mumbai,1002925,14-02-2026 11:40,14-02-2026 11:40,open
+785,785,Software Developer,Contract,Accenture,Delhi,1231464,14-02-2026 11:40,14-02-2026 11:40,closed
+786,786,Software Developer,Internship,TCS,Chennai,889418,14-02-2026 11:40,14-02-2026 11:40,closed
+787,787,HR Executive,Part-Time,Infosys,Chennai,960357,14-02-2026 11:40,14-02-2026 11:40,closed
+788,788,Data Analyst,Part-Time,TCS,Pune,1115194,14-02-2026 11:40,14-02-2026 11:40,open
+789,789,Web Designer,Contract,Accenture,Pune,1243860,14-02-2026 11:40,14-02-2026 11:40,closed
+790,790,HR Executive,Full-Time,Tech Mahindra,Mumbai,1342790,14-02-2026 11:40,14-02-2026 11:40,closed
+791,791,Project Manager,Internship,Wipro,Pune,928036,14-02-2026 11:40,14-02-2026 11:40,closed
+792,792,Project Manager,Internship,Tech Mahindra,Chennai,1429903,14-02-2026 11:40,14-02-2026 11:40,closed
+793,793,Accountant,Contract,Tech Mahindra,Hyderabad,285419,14-02-2026 11:40,14-02-2026 11:40,closed
+794,794,Business Analyst,Part-Time,Accenture,Chennai,1185442,14-02-2026 11:40,14-02-2026 11:40,open
+795,795,Business Analyst,Full-Time,HCL,Delhi,1443111,14-02-2026 11:40,14-02-2026 11:40,closed
+796,796,Business Analyst,Internship,Tech Mahindra,Mumbai,244478,14-02-2026 11:40,14-02-2026 11:40,closed
+797,797,Business Analyst,Internship,Tech Mahindra,Mumbai,1116992,14-02-2026 11:40,14-02-2026 11:40,open
+798,798,Accountant,Internship,Infosys,Chennai,1355896,14-02-2026 11:40,14-02-2026 11:40,open
+799,799,Web Designer,Full-Time,Capgemini,Chennai,1463378,14-02-2026 11:40,14-02-2026 11:40,open
+800,800,Marketing Manager,Internship,Wipro,Bangalore,1149345,14-02-2026 11:40,14-02-2026 11:40,closed
+801,801,Data Analyst,Part-Time,Capgemini,Pune,1211969,14-02-2026 11:40,14-02-2026 11:40,closed
+802,802,Software Developer,Part-Time,Accenture,Delhi,1102276,14-02-2026 11:40,14-02-2026 11:40,closed
+803,803,Web Designer,Part-Time,Wipro,Mumbai,663298,14-02-2026 11:40,14-02-2026 11:40,open
+804,804,Project Manager,Contract,Tech Mahindra,Delhi,884992,14-02-2026 11:40,14-02-2026 11:40,open
+805,805,Software Developer,Part-Time,TCS,Chennai,313396,14-02-2026 11:40,14-02-2026 11:40,closed
+806,806,Software Developer,Contract,Infosys,Hyderabad,895167,14-02-2026 11:40,14-02-2026 11:40,open
+807,807,Data Analyst,Full-Time,Capgemini,Pune,236566,14-02-2026 11:40,14-02-2026 11:40,closed
+808,808,Project Manager,Part-Time,Infosys,Mumbai,422203,14-02-2026 11:40,14-02-2026 11:40,closed
+809,809,Software Developer,Contract,HCL,Bangalore,300488,14-02-2026 11:40,14-02-2026 11:40,closed
+810,810,Project Manager,Contract,Tech Mahindra,Hyderabad,834958,14-02-2026 11:40,14-02-2026 11:40,closed
+811,811,Accountant,Contract,Infosys,Bangalore,1166002,14-02-2026 11:40,14-02-2026 11:40,open
+812,812,Project Manager,Part-Time,Tech Mahindra,Bangalore,851798,14-02-2026 11:40,14-02-2026 11:40,open
+813,813,Accountant,Full-Time,Infosys,Mumbai,1328587,14-02-2026 11:40,14-02-2026 11:40,closed
+814,814,Web Designer,Internship,Tech Mahindra,Hyderabad,675366,14-02-2026 11:40,14-02-2026 11:40,closed
+815,815,Software Developer,Full-Time,Wipro,Pune,1470321,14-02-2026 11:40,14-02-2026 11:40,open
+816,816,Data Analyst,Part-Time,Infosys,Mumbai,644176,14-02-2026 11:40,14-02-2026 11:40,closed
+817,817,Project Manager,Internship,Wipro,Hyderabad,633464,14-02-2026 11:40,14-02-2026 11:40,closed
+818,818,Accountant,Internship,Capgemini,Chennai,383820,14-02-2026 11:40,14-02-2026 11:40,open
+819,819,Marketing Manager,Full-Time,Wipro,Mumbai,660905,14-02-2026 11:40,14-02-2026 11:40,open
+820,820,Business Analyst,Part-Time,Tech Mahindra,Delhi,856382,14-02-2026 11:40,14-02-2026 11:40,closed
+821,821,Data Analyst,Internship,TCS,Chennai,1290593,14-02-2026 11:40,14-02-2026 11:40,open
+822,822,Accountant,Contract,Accenture,Pune,557535,14-02-2026 11:40,14-02-2026 11:40,closed
+823,823,HR Executive,Part-Time,HCL,Hyderabad,1135309,14-02-2026 11:40,14-02-2026 11:40,closed
+824,824,Accountant,Contract,Wipro,Chennai,907435,14-02-2026 11:40,14-02-2026 11:40,closed
+825,825,Web Designer,Contract,HCL,Chennai,591674,14-02-2026 11:40,14-02-2026 11:40,open
+826,826,Project Manager,Part-Time,HCL,Mumbai,1160633,14-02-2026 11:40,14-02-2026 11:40,closed
+827,827,Data Analyst,Part-Time,Wipro,Pune,1156378,14-02-2026 11:40,14-02-2026 11:40,open
+828,828,Web Designer,Internship,HCL,Mumbai,1038719,14-02-2026 11:40,14-02-2026 11:40,closed
+829,829,Project Manager,Full-Time,HCL,Chennai,1083547,14-02-2026 11:40,14-02-2026 11:40,closed
+830,830,HR Executive,Contract,Wipro,Mumbai,797808,14-02-2026 11:40,14-02-2026 11:40,open
+831,831,Data Analyst,Part-Time,Wipro,Pune,754380,14-02-2026 11:40,14-02-2026 11:40,open
+832,832,Software Developer,Part-Time,Infosys,Bangalore,288593,14-02-2026 11:40,14-02-2026 11:40,closed
+833,833,HR Executive,Part-Time,Infosys,Pune,614258,14-02-2026 11:40,14-02-2026 11:40,closed
+834,834,Software Developer,Contract,TCS,Pune,327400,14-02-2026 11:40,14-02-2026 11:40,closed
+835,835,Marketing Manager,Part-Time,Tech Mahindra,Pune,529270,14-02-2026 11:40,14-02-2026 11:40,open
+836,836,Business Analyst,Part-Time,Tech Mahindra,Delhi,670464,14-02-2026 11:40,14-02-2026 11:40,open
+837,837,Marketing Manager,Full-Time,Tech Mahindra,Mumbai,852823,14-02-2026 11:40,14-02-2026 11:40,closed
+838,838,Marketing Manager,Full-Time,HCL,Chennai,353575,14-02-2026 11:40,14-02-2026 11:40,open
+839,839,Business Analyst,Internship,Infosys,Pune,272978,14-02-2026 11:40,14-02-2026 11:40,open
+840,840,Web Designer,Full-Time,Tech Mahindra,Chennai,613600,14-02-2026 11:40,14-02-2026 11:40,open
+841,841,Business Analyst,Full-Time,TCS,Bangalore,904866,14-02-2026 11:40,14-02-2026 11:40,closed
+842,842,Software Developer,Internship,Infosys,Mumbai,1141069,14-02-2026 11:40,14-02-2026 11:40,closed
+843,843,Business Analyst,Contract,Infosys,Mumbai,962280,14-02-2026 11:40,14-02-2026 11:40,open
+844,844,Accountant,Part-Time,Accenture,Hyderabad,1282511,14-02-2026 11:40,14-02-2026 11:40,open
+845,845,Data Analyst,Contract,Capgemini,Bangalore,292524,14-02-2026 11:40,14-02-2026 11:40,open
+846,846,Marketing Manager,Full-Time,Capgemini,Delhi,1406142,14-02-2026 11:40,14-02-2026 11:40,open
+847,847,Business Analyst,Contract,HCL,Mumbai,937814,14-02-2026 11:40,14-02-2026 11:40,open
+848,848,HR Executive,Contract,Wipro,Bangalore,258400,14-02-2026 11:40,14-02-2026 11:40,open
+849,849,Accountant,Internship,Wipro,Bangalore,755659,14-02-2026 11:40,14-02-2026 11:40,open
+850,850,Marketing Manager,Internship,Wipro,Mumbai,862882,14-02-2026 11:40,14-02-2026 11:40,closed
+851,851,Software Developer,Internship,TCS,Chennai,221319,14-02-2026 11:40,14-02-2026 11:40,closed
+852,852,Marketing Manager,Contract,Infosys,Pune,1410037,14-02-2026 11:40,14-02-2026 11:40,closed
+853,853,Marketing Manager,Part-Time,Capgemini,Delhi,840224,14-02-2026 11:40,14-02-2026 11:40,open
+854,854,Data Analyst,Full-Time,HCL,Hyderabad,964319,14-02-2026 11:40,14-02-2026 11:40,open
+855,855,Project Manager,Internship,Infosys,Pune,1135640,14-02-2026 11:40,14-02-2026 11:40,closed
+856,856,Accountant,Internship,Tech Mahindra,Mumbai,952343,14-02-2026 11:40,14-02-2026 11:40,closed
+857,857,Software Developer,Contract,Capgemini,Bangalore,993939,14-02-2026 11:40,14-02-2026 11:40,closed
+858,858,Project Manager,Full-Time,Accenture,Bangalore,837386,14-02-2026 11:40,14-02-2026 11:40,open
+859,859,Web Designer,Part-Time,Tech Mahindra,Hyderabad,870114,14-02-2026 11:40,14-02-2026 11:40,open
+860,860,Software Developer,Part-Time,Infosys,Mumbai,809653,14-02-2026 11:40,14-02-2026 11:40,closed
+861,861,Software Developer,Full-Time,Accenture,Bangalore,678015,14-02-2026 11:40,14-02-2026 11:40,closed
+862,862,Business Analyst,Contract,Tech Mahindra,Chennai,803197,14-02-2026 11:40,14-02-2026 11:40,closed
+863,863,Software Developer,Full-Time,HCL,Chennai,1370313,14-02-2026 11:40,14-02-2026 11:40,open
+864,864,Web Designer,Part-Time,HCL,Chennai,1056938,14-02-2026 11:40,14-02-2026 11:40,open
+865,865,Marketing Manager,Part-Time,Accenture,Delhi,276216,14-02-2026 11:40,14-02-2026 11:40,closed
+866,866,Marketing Manager,Part-Time,Wipro,Chennai,317996,14-02-2026 11:40,14-02-2026 11:40,open
+867,867,Marketing Manager,Part-Time,Wipro,Mumbai,801693,14-02-2026 11:40,14-02-2026 11:40,open
+868,868,Web Designer,Full-Time,Tech Mahindra,Hyderabad,1186874,14-02-2026 11:40,14-02-2026 11:40,open
+869,869,Marketing Manager,Part-Time,HCL,Hyderabad,1339264,14-02-2026 11:40,14-02-2026 11:40,closed
+870,870,Accountant,Internship,Tech Mahindra,Delhi,497329,14-02-2026 11:40,14-02-2026 11:40,closed
+871,871,Project Manager,Contract,TCS,Delhi,825041,14-02-2026 11:40,14-02-2026 11:40,open
+872,872,HR Executive,Internship,Wipro,Hyderabad,410786,14-02-2026 11:40,14-02-2026 11:40,open
+873,873,Web Designer,Contract,HCL,Pune,226846,14-02-2026 11:40,14-02-2026 11:40,open
+874,874,Accountant,Internship,Infosys,Hyderabad,804631,14-02-2026 11:40,14-02-2026 11:40,closed
+875,875,Web Designer,Internship,Capgemini,Chennai,951442,14-02-2026 11:40,14-02-2026 11:40,open
+876,876,Project Manager,Internship,Capgemini,Mumbai,1150421,14-02-2026 11:40,14-02-2026 11:40,closed
+877,877,Accountant,Part-Time,HCL,Mumbai,1303387,14-02-2026 11:40,14-02-2026 11:40,closed
+878,878,Marketing Manager,Full-Time,Accenture,Chennai,451087,14-02-2026 11:40,14-02-2026 11:40,open
+879,879,HR Executive,Full-Time,Wipro,Hyderabad,334727,14-02-2026 11:40,14-02-2026 11:40,open
+880,880,HR Executive,Full-Time,Accenture,Bangalore,669531,14-02-2026 11:40,14-02-2026 11:40,closed
+881,881,Project Manager,Full-Time,HCL,Chennai,300103,14-02-2026 11:40,14-02-2026 11:40,open
+882,882,HR Executive,Part-Time,Wipro,Delhi,417351,14-02-2026 11:40,14-02-2026 11:40,closed
+883,883,Business Analyst,Full-Time,Accenture,Chennai,378019,14-02-2026 11:40,14-02-2026 11:40,open
+884,884,HR Executive,Part-Time,Infosys,Bangalore,653383,14-02-2026 11:40,14-02-2026 11:40,open
+885,885,Software Developer,Internship,TCS,Delhi,616843,14-02-2026 11:40,14-02-2026 11:40,closed
+886,886,Accountant,Part-Time,Infosys,Pune,792171,14-02-2026 11:40,14-02-2026 11:40,open
+887,887,Project Manager,Contract,HCL,Chennai,318334,14-02-2026 11:40,14-02-2026 11:40,closed
+888,888,HR Executive,Contract,Capgemini,Pune,1480617,14-02-2026 11:40,14-02-2026 11:40,open
+889,889,Marketing Manager,Internship,HCL,Pune,950348,14-02-2026 11:40,14-02-2026 11:40,closed
+890,890,HR Executive,Contract,Infosys,Delhi,922534,14-02-2026 11:40,14-02-2026 11:40,open
+891,891,Marketing Manager,Internship,Accenture,Hyderabad,758119,14-02-2026 11:40,14-02-2026 11:40,closed
+892,892,Software Developer,Full-Time,Tech Mahindra,Delhi,280518,14-02-2026 11:40,14-02-2026 11:40,open
+893,893,Marketing Manager,Internship,Capgemini,Chennai,1071781,14-02-2026 11:40,14-02-2026 11:40,open
+894,894,Software Developer,Part-Time,Infosys,Mumbai,1062970,14-02-2026 11:40,14-02-2026 11:40,open
+895,895,Software Developer,Internship,TCS,Bangalore,770724,14-02-2026 11:40,14-02-2026 11:40,closed
+896,896,Business Analyst,Part-Time,Wipro,Chennai,471614,14-02-2026 11:40,14-02-2026 11:40,open
+897,897,Marketing Manager,Contract,Wipro,Mumbai,624316,14-02-2026 11:40,14-02-2026 11:40,closed
+898,898,Business Analyst,Full-Time,Capgemini,Hyderabad,714424,14-02-2026 11:40,14-02-2026 11:40,closed
+899,899,Web Designer,Contract,Accenture,Delhi,283319,14-02-2026 11:40,14-02-2026 11:40,closed
+900,900,Project Manager,Full-Time,TCS,Mumbai,414148,14-02-2026 11:40,14-02-2026 11:40,closed
+901,901,Data Analyst,Internship,Tech Mahindra,Hyderabad,1486829,14-02-2026 11:40,14-02-2026 11:40,closed
+902,902,HR Executive,Contract,HCL,Mumbai,861003,14-02-2026 11:40,14-02-2026 11:40,open
+903,903,Web Designer,Part-Time,Capgemini,Pune,795986,14-02-2026 11:40,14-02-2026 11:40,open
+904,904,Web Designer,Full-Time,Tech Mahindra,Mumbai,1118284,14-02-2026 11:40,14-02-2026 11:40,closed
+905,905,Web Designer,Part-Time,Wipro,Chennai,1232887,14-02-2026 11:40,14-02-2026 11:40,open
+906,906,Software Developer,Part-Time,Accenture,Chennai,256339,14-02-2026 11:40,14-02-2026 11:40,closed
+907,907,Data Analyst,Part-Time,Wipro,Hyderabad,532567,14-02-2026 11:40,14-02-2026 11:40,open
+908,908,Accountant,Full-Time,TCS,Hyderabad,1101252,14-02-2026 11:40,14-02-2026 11:40,open
+909,909,Web Designer,Part-Time,Wipro,Bangalore,504504,14-02-2026 11:40,14-02-2026 11:40,closed
+910,910,Project Manager,Internship,Capgemini,Pune,590413,14-02-2026 11:40,14-02-2026 11:40,closed
+911,911,Software Developer,Full-Time,Wipro,Delhi,975741,14-02-2026 11:40,14-02-2026 11:40,open
+912,912,HR Executive,Part-Time,HCL,Hyderabad,254534,14-02-2026 11:40,14-02-2026 11:40,closed
+913,913,Project Manager,Full-Time,Infosys,Delhi,1395174,14-02-2026 11:40,14-02-2026 11:40,open
+914,914,Project Manager,Part-Time,Wipro,Bangalore,847529,14-02-2026 11:40,14-02-2026 11:40,closed
+915,915,Web Designer,Part-Time,Wipro,Bangalore,1026808,14-02-2026 11:40,14-02-2026 11:40,closed
+916,916,Data Analyst,Contract,Wipro,Delhi,681098,14-02-2026 11:40,14-02-2026 11:40,closed
+917,917,Marketing Manager,Internship,Accenture,Bangalore,1167295,14-02-2026 11:40,14-02-2026 11:40,closed
+918,918,Software Developer,Part-Time,Tech Mahindra,Chennai,1288607,14-02-2026 11:40,14-02-2026 11:40,open
+919,919,Business Analyst,Part-Time,Tech Mahindra,Chennai,1380608,14-02-2026 11:40,14-02-2026 11:40,closed
+920,920,Business Analyst,Contract,HCL,Bangalore,1174030,14-02-2026 11:40,14-02-2026 11:40,closed
+921,921,HR Executive,Internship,Accenture,Delhi,325527,14-02-2026 11:40,14-02-2026 11:40,open
+922,922,Business Analyst,Contract,Capgemini,Delhi,1497828,14-02-2026 11:40,14-02-2026 11:40,open
+923,923,Business Analyst,Full-Time,Infosys,Hyderabad,769230,14-02-2026 11:40,14-02-2026 11:40,closed
+924,924,Marketing Manager,Full-Time,Infosys,Hyderabad,495559,14-02-2026 11:40,14-02-2026 11:40,open
+925,925,Accountant,Contract,Capgemini,Hyderabad,297645,14-02-2026 11:40,14-02-2026 11:40,open
+926,926,Business Analyst,Part-Time,Accenture,Pune,711336,14-02-2026 11:40,14-02-2026 11:40,open
+927,927,Data Analyst,Part-Time,TCS,Delhi,294111,14-02-2026 11:40,14-02-2026 11:40,closed
+928,928,Data Analyst,Contract,Accenture,Mumbai,806701,14-02-2026 11:40,14-02-2026 11:40,closed
+929,929,Data Analyst,Full-Time,Infosys,Bangalore,319271,14-02-2026 11:40,14-02-2026 11:40,closed
+930,930,Business Analyst,Contract,Tech Mahindra,Bangalore,852544,14-02-2026 11:40,14-02-2026 11:40,closed
+931,931,Data Analyst,Contract,HCL,Delhi,1317907,14-02-2026 11:40,14-02-2026 11:40,open
+932,932,Marketing Manager,Contract,Infosys,Hyderabad,1242527,14-02-2026 11:40,14-02-2026 11:40,closed
+933,933,HR Executive,Part-Time,Wipro,Hyderabad,1147146,14-02-2026 11:40,14-02-2026 11:40,open
+934,934,Data Analyst,Internship,Wipro,Bangalore,470211,14-02-2026 11:40,14-02-2026 11:40,open
+935,935,Accountant,Part-Time,TCS,Hyderabad,684913,14-02-2026 11:40,14-02-2026 11:40,closed
+936,936,Software Developer,Part-Time,Infosys,Delhi,968593,14-02-2026 11:40,14-02-2026 11:40,open
+937,937,Accountant,Contract,Infosys,Delhi,1384460,14-02-2026 11:40,14-02-2026 11:40,open
+938,938,HR Executive,Internship,Tech Mahindra,Delhi,1236640,14-02-2026 11:40,14-02-2026 11:40,closed
+939,939,Accountant,Part-Time,TCS,Mumbai,470601,14-02-2026 11:40,14-02-2026 11:40,open
+940,940,Web Designer,Contract,Tech Mahindra,Chennai,1376694,14-02-2026 11:40,14-02-2026 11:40,open
+941,941,Accountant,Contract,Infosys,Mumbai,357500,14-02-2026 11:40,14-02-2026 11:40,closed
+942,942,Web Designer,Internship,Capgemini,Delhi,590625,14-02-2026 11:40,14-02-2026 11:40,open
+943,943,HR Executive,Part-Time,Infosys,Bangalore,490232,14-02-2026 11:40,14-02-2026 11:40,closed
+944,944,Project Manager,Internship,Wipro,Hyderabad,646991,14-02-2026 11:40,14-02-2026 11:40,closed
+945,945,Marketing Manager,Full-Time,HCL,Chennai,637936,14-02-2026 11:40,14-02-2026 11:40,closed
+946,946,Marketing Manager,Contract,Infosys,Hyderabad,1131844,14-02-2026 11:40,14-02-2026 11:40,open
+947,947,Business Analyst,Internship,Tech Mahindra,Delhi,948084,14-02-2026 11:40,14-02-2026 11:40,closed
+948,948,Web Designer,Full-Time,Capgemini,Delhi,501105,14-02-2026 11:40,14-02-2026 11:40,closed
+949,949,Business Analyst,Part-Time,Infosys,Chennai,463604,14-02-2026 11:40,14-02-2026 11:40,open
+950,950,Business Analyst,Part-Time,Capgemini,Delhi,1331831,14-02-2026 11:40,14-02-2026 11:40,closed
+951,951,Project Manager,Full-Time,HCL,Mumbai,1468241,14-02-2026 11:40,14-02-2026 11:40,open
+952,952,Marketing Manager,Full-Time,Infosys,Pune,600344,14-02-2026 11:40,14-02-2026 11:40,closed
+953,953,Business Analyst,Full-Time,Wipro,Delhi,760440,14-02-2026 11:40,14-02-2026 11:40,closed
+954,954,Data Analyst,Internship,Tech Mahindra,Bangalore,528697,14-02-2026 11:40,14-02-2026 11:40,closed
+955,955,Software Developer,Internship,Tech Mahindra,Pune,1033262,14-02-2026 11:40,14-02-2026 11:40,open
+956,956,Data Analyst,Contract,TCS,Chennai,1464346,14-02-2026 11:40,14-02-2026 11:40,closed
+957,957,Accountant,Internship,Capgemini,Mumbai,1024364,14-02-2026 11:40,14-02-2026 11:40,closed
+958,958,Marketing Manager,Part-Time,Accenture,Delhi,1010473,14-02-2026 11:40,14-02-2026 11:40,open
+959,959,Software Developer,Full-Time,TCS,Hyderabad,1205703,14-02-2026 11:40,14-02-2026 11:40,open
+960,960,Marketing Manager,Full-Time,HCL,Chennai,1114043,14-02-2026 11:40,14-02-2026 11:40,closed
+961,961,Software Developer,Full-Time,HCL,Mumbai,1320003,14-02-2026 11:40,14-02-2026 11:40,open
+962,962,Marketing Manager,Internship,HCL,Hyderabad,292211,14-02-2026 11:40,14-02-2026 11:40,open
+963,963,Software Developer,Internship,Accenture,Delhi,889214,14-02-2026 11:40,14-02-2026 11:40,open
+964,964,Data Analyst,Contract,TCS,Chennai,501675,14-02-2026 11:40,14-02-2026 11:40,closed
+965,965,Software Developer,Internship,HCL,Bangalore,698342,14-02-2026 11:40,14-02-2026 11:40,closed
+966,966,Software Developer,Full-Time,Infosys,Bangalore,1450647,14-02-2026 11:40,14-02-2026 11:40,closed
+967,967,Marketing Manager,Part-Time,Tech Mahindra,Mumbai,1202736,14-02-2026 11:40,14-02-2026 11:40,open
+968,968,Data Analyst,Part-Time,Accenture,Pune,611792,14-02-2026 11:40,14-02-2026 11:40,closed
+969,969,HR Executive,Full-Time,Tech Mahindra,Mumbai,1438140,14-02-2026 11:40,14-02-2026 11:40,closed
+970,970,Marketing Manager,Full-Time,HCL,Mumbai,1111250,14-02-2026 11:40,14-02-2026 11:40,closed
+971,971,Accountant,Internship,Infosys,Hyderabad,1282495,14-02-2026 11:40,14-02-2026 11:40,open
+972,972,Accountant,Contract,Accenture,Bangalore,1398163,14-02-2026 11:40,14-02-2026 11:40,open
+973,973,Accountant,Full-Time,TCS,Chennai,1093092,14-02-2026 11:40,14-02-2026 11:40,open
+974,974,Software Developer,Internship,Capgemini,Pune,1058002,14-02-2026 11:40,14-02-2026 11:40,closed
+975,975,Project Manager,Full-Time,Infosys,Bangalore,1008092,14-02-2026 11:40,14-02-2026 11:40,closed
+976,976,Accountant,Full-Time,Wipro,Chennai,1248060,14-02-2026 11:40,14-02-2026 11:40,closed
+977,977,Accountant,Contract,Accenture,Hyderabad,1489077,14-02-2026 11:40,14-02-2026 11:40,closed
+978,978,Marketing Manager,Part-Time,Accenture,Pune,1041308,14-02-2026 11:40,14-02-2026 11:40,open
+979,979,Software Developer,Contract,Tech Mahindra,Chennai,501597,14-02-2026 11:40,14-02-2026 11:40,open
+980,980,Project Manager,Contract,Tech Mahindra,Bangalore,757856,14-02-2026 11:40,14-02-2026 11:40,closed
+981,981,HR Executive,Contract,Accenture,Mumbai,791662,14-02-2026 11:40,14-02-2026 11:40,closed
+982,982,Project Manager,Full-Time,Wipro,Hyderabad,490988,14-02-2026 11:40,14-02-2026 11:40,closed
+983,983,Business Analyst,Part-Time,TCS,Chennai,732976,14-02-2026 11:40,14-02-2026 11:40,open
+984,984,HR Executive,Internship,Accenture,Hyderabad,639371,14-02-2026 11:40,14-02-2026 11:40,open
+985,985,Business Analyst,Contract,HCL,Hyderabad,1051253,14-02-2026 11:40,14-02-2026 11:40,closed
+986,986,Marketing Manager,Contract,HCL,Hyderabad,536733,14-02-2026 11:40,14-02-2026 11:40,closed
+987,987,Web Designer,Full-Time,HCL,Chennai,838934,14-02-2026 11:40,14-02-2026 11:40,open
+988,988,Business Analyst,Part-Time,Infosys,Bangalore,1472681,14-02-2026 11:40,14-02-2026 11:40,closed
+989,989,HR Executive,Full-Time,Infosys,Chennai,1418500,14-02-2026 11:40,14-02-2026 11:40,open
+990,990,Data Analyst,Internship,Capgemini,Bangalore,1168077,14-02-2026 11:40,14-02-2026 11:40,closed
+991,991,Data Analyst,Part-Time,Wipro,Hyderabad,1361480,14-02-2026 11:40,14-02-2026 11:40,open
+992,992,Accountant,Full-Time,Wipro,Bangalore,1140554,14-02-2026 11:40,14-02-2026 11:40,closed
+993,993,HR Executive,Internship,TCS,Delhi,823541,14-02-2026 11:40,14-02-2026 11:40,closed
+994,994,Marketing Manager,Part-Time,HCL,Delhi,846728,14-02-2026 11:40,14-02-2026 11:40,open
+995,995,Data Analyst,Part-Time,HCL,Delhi,1311597,14-02-2026 11:40,14-02-2026 11:40,open
+996,996,Web Designer,Full-Time,Infosys,Pune,1448080,14-02-2026 11:40,14-02-2026 11:40,open
+997,997,HR Executive,Internship,Tech Mahindra,Pune,1330580,14-02-2026 11:40,14-02-2026 11:40,open
+998,998,Accountant,Contract,TCS,Delhi,1265252,14-02-2026 11:40,14-02-2026 11:40,open
+999,999,Web Designer,Part-Time,Infosys,Hyderabad,457280,14-02-2026 11:40,14-02-2026 11:40,closed
+1000,1000,Data Analyst,Full-Time,Infosys,Pune,1146362,14-02-2026 11:40,14-02-2026 11:40,open
