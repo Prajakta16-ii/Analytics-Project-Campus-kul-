@@ -1,0 +1,12 @@
+Column Name,Data Type,Meaning,Example,Allowed Values
+event_id,Integer,Unique identifier for each event,101,Unique positive integers
+user_id,Integer,ID of the user who created the event,45,Positive integers
+college_id,Integer,College to which the event belongs,10,Positive integers
+event_name,String,Name of the event,Tech Fest 2025,Any text
+event_description,String,Detailed description of the event,Technical festival with workshops,Any text
+event_type,String,Category/type of the event,Workshop,"Workshop, Seminar, Cultural, Hackathon, Sports"
+location,String,City or campus location of the event,Pune,"Mumbai, Pune, Bangalore, etc."
+start_date,DateTime,Event start date and time,2026-01-15 10:00,Valid datetime
+end_date,DateTime,Event end date and time,2026-01-15 17:00,Valid datetime (≥ start_date)
+created_at,DateTime,When the event record was created,2026-01-01 9:30,Valid datetime
+updated_at,DateTime,When the event record was last updated,2026-01-05 11:00,Valid datetime

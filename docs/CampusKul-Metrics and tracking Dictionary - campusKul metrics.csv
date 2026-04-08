@@ -1,0 +1,18 @@
+Metric Name,What it Means ,Why it Matters,CampusKul Example
+Active Users,Users who do at least one meaningful action,Shows real platform usage,Student views placements or posts
+,,,
+Activation,First time a new user experiences value,Ensures new users don’t drop early,New user applies to event
+,,,
+DAU (Daily Active Users),Users active in one day,Shows daily engagement,Students checking notices today
+,,,
+WAU (Weekly Active Users),Users active in one week,Shows regular weekly usage,Users opening CampusKul this week
+,,,
+MAU (Monthly Active Users),Users active in one month,Measures long-term engagement,Students active this month
+,,,
+Engagement Events,Actions showing interaction,Shows feature usage,"Post, comment, job apply"
+,,,
+Engagement Rate,How much users interact,Measures product interest,Likes and comments on posts
+,,,
+Retention Rate,Users who return after first use,Shows long-term value,Students returning weekly
+,,,
+Churn Rate,Users who stop using the app,Identifies drop-offs,Students who never returned

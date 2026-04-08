@@ -1,0 +1,35 @@
+Step Order,Funnel Step,Event Name,Description
+1,Job View,job_view,User sees a job listing on jobs page or feed
+2,Job Click,job_click,User clicks job to see full details
+3,Apply Start,apply_start,User clicks apply button and begins application
+4,Apply Submit,apply_submit,User successfully submits application
+,,,
+,,,
+,,,
+Funnel metrics,,,
+,,,
+Step,Users,Step Conversion %,Drop-Off %
+Job View,1000,60.00%,50.00%
+Job Click,600,50.00%,50.00%
+Apply Start,300,50.00%,100.00%
+Apply Submit,150,0.00%,100.00%
+,,,
+,,,
+Overall conversion,,,
+,,,
+Metric,Value,,
+Overall Conversion,15.00%,,
+,,,
+,,,
+,,,
+Metric,Formula,Value,
+Click Through Rate,job_click / job_view,60%,
+Apply Start Rate,apply_start / job_click,50%,
+Submit Rate,apply_submit / apply_start,50%,
+Overall Conversion,apply_submit / job_view,15%,
+Total Drop-Off,1 - Overall Conversion,85%,
+,,,
+,,,
+,,,
+The Jobs funnel shows a 15% overall conversion from job view to application submission.,,,
+"The highest drop-off occurs between apply_start and apply_submit (50%), indicating possible friction in the application form.",,,

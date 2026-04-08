@@ -1,0 +1,31 @@
+CampusKul – Product Brief,"CampusKul is a digital campus Engagements platform designed to connect students,faculty, alumni, and administrators in one place. The platform helps users stayupdated with campus news and notices, participate in events, explore placement opportunities, connect with mentors, access learning resources, and showcase achievements. CampusKul aims to improve communication, engagement, and career growth within the campus ecosystem.
+",
+,,
+Roles,Description,
+Super Admin,"Has full control of the platform, manages users and admins, controls system settings, and can upload and manage events.",
+Admin,"Manages daily platform operations and can upload and manage events, notices, news, placements, and resources.",
+Faculty,"Can view platform content, apply to events, engage with students, and participate in mentoring activities",
+Student,"Can view campus updates, apply to events, jobs, and internships, connect with mentors and faculty, and access learning resources.",
+Alumni,"Can apply to events, act as mentors, support students, and share knowledge and experiences.",
+,,
+Module Name,Purpose / Description,
+Campus Feed,Allows users to create posts and see daily campus updates and activities.,
+News,Displays official campus news and announcements.,
+Notice Board,Shows important and time-bound notices with expiry dates.,
+Events,Displays campus events that are created and managed by Admin and Super Admin,
+Mentors,Helps students connect with mentors and alumni for guidance.,
+placements,Shows job and internship opportunities for students,
+Associate Body,"Displays official student organizations (e.g., Student Council) with details like description and year, helping users understand campus governance and student representation.",
+Achivements,Allows users to post and view academic or professional achievements.,
+Resources,"Provides learning materials, tools, and useful resources.",
+Level up,Offers skill development courses and learning programs,
+Campus Directory,"Shows profiles of faculty, alumni, and students for networking.",
+Departments,Displays academic departments along with HOD and contact details.,
+,,
+Goal No.,60 Day Product Goal,Why this goal is important?
+1,Increase student and faculty engagement on the platform,Higher engagement shows that users find the platform useful and active.
+2,Improve participation in campus events,Event participation indicates strong campus involvement.
+3,Encourage students to apply for placements and internships,Helps measure career-related value provided by the platform.
+4,Increase mentor connections between students and alumni,Mentorship improves guidance and long-term platform value.
+5,"Ensure regular usage of news, notices, and resources",Shows users rely on the platform for campus information.
+6,Reduce user drop-off after registration,Improves retention and long-term usage of the platform.
